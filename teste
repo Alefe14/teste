@@ -1,0 +1,593 @@
+# EXTM3U
+
+
+#EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png", GLOBO RJ  FHD
+http://lista.lorddark.club/5247/5247/19425
+
+#EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png", GLOBO RJ HD
+http://lista.lorddark.club:80/5247/5247/19424
+
+#EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png", GLOBO RJ [alter]
+http://lista.lorddark.club/5247/5247/743
+
+#EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png", GLOBO SP FHD
+http://lista.lorddark.club/5247/5247/19430
+
+#EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png", GLOBO SP HD
+http://lista.lorddark.club:80/5247/5247/19429
+
+#EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png", GLOBO SP [alter]
+http://lista.lorddark.club/5247/5247/745
+
+#EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png", GLOBO PB FHD
+http://lista.lorddark.club/5247/5247/186092
+
+#EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png", GLOBO PB HD
+http://lista.lorddark.club/5247/5247/186091
+
+#EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png", GLOBO MG FHD
+http://lista.lorddark.club/5247/5247/19065
+
+#EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png", GLOBO MG HD
+http://lista.lorddark.club/5247/5247/19415
+
+#EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png", GLOBO NORDESTE FHD
+http://lista.lorddark.club/5247/5247/19066
+
+#EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png", GLOBO NORDESTE HD
+http://lista.lorddark.club/5247/5247/19417
+
+#EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-3.png", BAND SP HD
+http://lista.lorddark.club:80/5247/5247/732
+
+#EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-3.png", BAND RJ HD
+http://lista.lorddark.club/5247/5247/729
+
+#EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png", RECORD TV FHD 
+http://lista.lorddark.club/5247/5247/186032
+
+#EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png", RECORD TV HD
+http://lista.lorddark.club:80/5247/5247/1135
+
+#EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png", RECORD RJ HD
+http://lista.lorddark.club/5247/5247/19381
+
+#EXTINF: -1 tvg-logo="http://i.imgur.com/jJBUZ6O.png", REDE TV HD
+http://lista.lorddark.club:80/5247/5247/1034 
+
+#EXTINF: -1 tvg-logo="http://i.imgur.com/jJBUZ6O.png", TV ARAPUAN HD
+https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/chunklist.m3u8
+
+#EXTINF: -1 tvg-logo="https://esportenewsmundo.com.br/wp-content/uploads/2020/07/SBT.png", SBT FHD
+http://lista.lorddark.club:80/5247/5247/19113
+
+#EXTINF: -1 tvg-logo="https://esportenewsmundo.com.br/wp-content/uploads/2020/07/SBT.png", SBT HD
+http://lista.lorddark.club:80/5247/5247/1137 
+
+#EXTINF: -1 tvg-logo="https://esportenewsmundo.com.br/wp-content/uploads/2020/07/SBT.png", SBT RJ HD
+http://lista.lorddark.club/5247/5247/760
+
+#EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/bandnews-logo.png", BAND NEWS HD
+http://lista.lorddark.club/5247/5247/19160
+
+#EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/globo-news-logo.png", GLOBO NEWS HD
+http://lista.lorddark.club/5247/5247/19233
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c7/Logotipo_da_Record_News_%282016%29.png", RECORD NEWS HD
+http://lista.lorddark.club/5247/5247/19308
+
+#EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2019/07/cnn-brasil-logo.png", CNN BRASIL HD
+http://lista.lorddark.club/5247/5247/27004
+
+#EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/bandsports-logo.png", BAND SPORTS FHD
+http://lista.lorddark.club:80/5247/5247/968 
+
+#EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/bandsports-logo.png", BAND SPORTS HD 1
+http://lista.lorddark.club:80/5247/5247/794 
+
+#EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/bandsports-logo.png", BAND SPORTS HD 2
+https://nxplay-srv1.nxplay.com.br/BAND_SPORTS/tracks-v1a1/mono.m3u8?sd=10&rebase=on
+
+#EXTINF: -1 tvg-logo="https://seeklogo.com/images/C/canal-combate-logo-logotipo-010EBF56D8-seeklogo.com.png", COMBATE FHD
+http://lista.lorddark.club:80/5247/5247/19094
+
+#EXTINF: -1 tvg-logo="https://seeklogo.com/images/C/canal-combate-logo-logotipo-010EBF56D8-seeklogo.com.png", COMBATE HD
+http://lista.lorddark.club:80/5247/5247/19177 
+
+#EXTINF: -1 tvg-logo="https://img.ibxk.com.br/2016/11/programas/15563009143717446.png", EI PLUS HD
+http://lista.lorddark.club/5247/5247/737
+
+#EXTINF: -1 tvg-logo="https://img.ibxk.com.br/2016/11/programas/15563009143717446.png", EI PLUS 
+http://lista.lorddark.club/5247/5247/1068
+
+#EXTINF: -1 tvg-logo="https://img.ibxk.com.br/2016/11/programas/15563009143717446.png", ESPORTE INTERATIVO HD
+http://lista.lorddark.club/5247/5247/1102
+
+#EXTINF: -1 tvg-logo="https://img.ibxk.com.br/2016/11/programas/15563009143717446.png", ESPORTE INTERATIVO SD
+http://lista.lorddark.club/5247/5247/19565
+
+#EXTINF: -1 tvg-logo="https://3.bp.blogspot.com/-PqmD25cU_TY/W3in2oHrdaI/AAAAAAAALaa/mVDfMLAyhg8BsVATam9ZvMWMuDv8oLZMQCLcBGAs/s1600/ESPN2.png", ESPN FHD
+http://lista.lorddark.club:80/5247/5247/19098
+
+#EXTINF: -1 tvg-logo="https://3.bp.blogspot.com/-PqmD25cU_TY/W3in2oHrdaI/AAAAAAAALaA/mVDfMLAyhg8BsVATam9ZvMWMuDv8oLZMQCLcBGAs/s1600/ESPN2.png, ESPN HD
+http://lista.lorddark.club:80/5247/5247/19211
+
+#EXTINF: -1 tvg-logo="https://3.bp.blogspot.com/-PqmD25cU_TY/W3in2oHrdaI/AAAAAAABLaA/mVDfMLAyhg8BsVATam9ZvMWMuDv8oLZMQCLcBGAs/s1600/ESPN2.png", ESPN 2 FHD
+http://lista.lorddark.club:80/5247/5247/18996
+
+#EXTINF: -1 tvg-logo="https://3.bp.blogspot.com/-PqmD25cU_TY/W3in2oHrdaI/AAAAAAABLaA/mVDfMLAyhg8BsVATam9ZvMWMuDv8oLZMQCLcBGAs/s1600/ESPN2.png", ESPN 2 HD
+http://lista.lorddark.club:80/5247/5247/19206
+
+#EXTINF: -1 tvg-logo="https://3.bp.blogspot.com/-PqmD25cU_TY/W3in2oHrdaI/AAAAAAAALaa/mVDfMLAyhg8BsVATam9ZvMWMuDv8oLZMQCLcBGAs/s1600/ESPN2.png", ESPN BRASIL FHD
+http://lista.lorddark.club:80/5247/5247/19097
+
+#EXTINF: -1 tvg-logo="https://3.bp.blogspot.com/-PqmD25cU_TY/W3in2oHrdaI/AAAAAAABLaA/mVDfMLAyhg8BsVATam9ZvMWMuDv8oLZMQCLcBGAs/s1600/ESPN2.png", ESPN BRASIL HD
+http://lista.lorddark.club:80/5247/5247/19208
+
+#EXTINF: -1 tvg-logo="https://3.bp.blogspot.com/-PqmD25cU_TY/W3in2oHrdaI/AAAAAAAALaa/mVDfMLAyhg8BsVATam9ZvMWMuDv8oLZMQCLcBGAs/s1600/ESPN2.png", ESPN EXTRA FHD
+http://lista.lorddark.club:80/5247/5247/18997
+
+#EXTINF: -1 tvg-logo="https://3.bp.blogspot.com/-PqmD25cU_TY/W3in2oHrdaI/AAAAAAAALaA/mVDfMLAyhg8BsVATam9ZvMWMuDv8oLZMQCLcBGAs/s1600/ESPN2.png", ESPN EXTRA HD
+http://lista.lorddark.club:80/5247/5247/19210
+
+#EXTINF: -1 tvg-logo="https://3.bp.blogspot.com/-PqmD25cU_TY/W3in2oHrdaI/AAAAAAAALaA/mVDfMLAyhg8BsVATam9ZvMWMuDv8oLZMQCLcBGAs/s1600/ESPN2.png", ESPN WATCH HD
+http://lista.lorddark.club/5247/5247/19579
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dd/Fox_Sports_Logo.png", FOX SPORTS FHD
+http://lista.lorddark.club:80/5247/5247/19101
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dd/Fox_Sports_Logo.png", FOX SPORTS HD
+http://lista.lorddark.club:80/5247/5247/19225
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dd/Fox_Sports_Logo.png", FOX SPORTS 2 FHD
+http://lista.lorddark.club:80/5247/5247/19100
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dd/Fox_Sports_Logo.png", FOX SPORTS 2 HD
+http://lista.lorddark.club:80/5247/5247/19227
+
+#EXTINF: -1 tvg-logo="https://designconceitual.com.br/wp-content/uploads/2017/08/SPORTV.png", SPORT TV FHD
+http://lista.lorddark.club:80/5247/5247/19116
+
+#EXTINF: -1 tvg-logo="https://designconceitual.com.br/wp-content/uploads/2017/08/SPORTV.png", SPORT TV HD 
+http://lista.lorddark.club:80/5247/5247/19327
+
+#EXTINF: -1 tvg-logo="https://designconceitual.com.br/wp-content/uploads/2017/08/SPORTV.png", SPORT TV 2 FHD
+http://lista.lorddark.club:80/5247/5247/19114
+
+#EXTINF: -1 tvg-logo="https://designconceitual.com.br/wp-content/uploads/2017/08/SPORTV.png", SPORT TV 2 HD
+http://lista.lorddark.club:80/5247/5247/19324
+
+#EXTINF: -1 tvg-logo="https://designconceitual.com.br/wp-content/uploads/2017/08/SPORTV.png", SPORT TV 3 FHD 
+http://lista.lorddark.club:80/5247/5247/19115
+
+#EXTINF: -1 tvg-logo="https://designconceitual.com.br/wp-content/uploads/2017/08/SPORTV.png", SPORT TV 3 HD
+http://lista.lorddark.club:80/5247/5247/19326
+
+#EXTINF: -1 tvg-logo="https://redecanaistv.com/imgs-videos/Canais/premiere7.jpg", PREMIERE CLUBES FHD
+http://lista.lorddark.club:80/5247/5247/19112
+
+#EXTINF: -1 tvg-logo="https://redecanaistv.com/imgs-videos/Canais/premiere7.jpg", PREMIERE CLUBES HD
+http://lista.lorddark.club:80/5247/5247/19302
+
+#EXTINF: -1 tvg-logo="https://redecanaistv.com/imgs-videos/Canais/premiere7.jpg", PREMIERE 2 HD
+http://lista.lorddark.club:80/5247/5247/19290
+
+#EXTINF: -1 tvg-logo="https://redecanaistv.com/imgs-videos/Canais/premiere7.jpg", PREMIERE 3 HD
+http://lista.lorddark.club:80/5247/5247/19292
+
+#EXTINF: -1 tvg-logo="https://redecanaistv.com/imgs-videos/Canais/premiere7.jpg", PREMIERE 4 HD
+http://lista.lorddark.club:80/5247/5247/19294
+
+#EXTINF: -1 tvg-logo="https://redecanaistv.com/imgs-videos/Canais/premiere7.jpg", PREMIERE 5 HD
+http://lista.lorddark.club:80/5247/5247/19296
+
+#EXTINF: -1 tvg-logo="https://redecanaistv.com/imgs-videos/Canais/premiere7.jpg", PREMIERE 6 HD 
+http://lista.lorddark.club:80/5247/5247/19110
+
+#EXTINF: -1 tvg-logo="https://redecanaistv.com/imgs-videos/Canais/premiere7.jpg", PREMIERE 7 HD
+http://lista.lorddark.club:80/5247/5247/19300
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/DAZN_LogoInBox_black.svg/1200px-DAZN_LogoInBox_black.svg.png", DAZN HD
+http://lista.lorddark.club/5247/5247/733
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/DAZN_LogoInBox_black.svg/1200px-DAZN_LogoInBox_black.svg.png", DAZN 
+http://lista.lorddark.club/5247/5247/19558
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/DAZN_LogoInBox_black.svg/1200px-DAZN_LogoInBox_black.svg.png", DAZN 2 HD
+http://lista.lorddark.club/5247/5247/734
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/DAZN_LogoInBox_black.svg/1200px-DAZN_LogoInBox_black.svg.png", DAZN 2
+http://lista.lorddark.club/5247/5247/19559
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/DAZN_LogoInBox_black.svg/1200px-DAZN_LogoInBox_black.svg.png", DAZN 3 HD
+http://lista.lorddark.club/5247/5247/735
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/DAZN_LogoInBox_black.svg/1200px-DAZN_LogoInBox_black.svg.png", DAZN 3
+http://lista.lorddark.club/5247/5247/19577
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/DAZN_LogoInBox_black.svg/1200px-DAZN_LogoInBox_black.svg.png", DAZN 4 HD
+http://lista.lorddark.club/5247/5247/736
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/DAZN_LogoInBox_black.svg/1200px-DAZN_LogoInBox_black.svg.png", DAZN 4
+http://lista.lorddark.club/5247/5247/19578
+
+#EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png", CONMEMBOL TV FHD
+http://lista.lorddark.club/5247/5247/201456
+
+#EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png", CONMEMBOL TV  HD
+http://lista.lorddark.club/5247/5247/201454
+
+#EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png", CONMEMBOL TV 2 FHD
+http://lista.lorddark.club/5247/5247/201447
+
+#EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png", CONMEMBOL TV 2 HD
+http://lista.lorddark.club/5247/5247/201438
+
+#EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png", CONMEMBOL TV 3 FHD
+http://lista.lorddark.club/5247/5247/201448
+
+#EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png", CONMEMBOL TV 3 HD
+http://lista.lorddark.club/5247/5247/201439
+
+#EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png", CONMEMBOL TV 4 FHD
+http://lista.lorddark.club/5247/5247/201449
+
+#EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png", CONMEMBOL TV 4 HD
+http://lista.lorddark.club/5247/5247/201440
+
+#EXTINF: -1 tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png", A&E FHD
+http://lista.lorddark.club:80/5247/5247/18975
+
+#EXTINF: -1 tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/AE-LOGO.png", A&E HD
+http://lista.lorddark.club:80/5247/5247/19147
+
+#EXTINF: -1 tvg-logo="https://variety.com/wp-content/uploads/2013/11/amc-logo.jpg?crop=151px%2C97px%2C841px%2C468px&resize=681%2C383", AMC HD
+http://lista.lorddark.club:80/5247/5247/19149
+
+#EXTINF: -1 tvg-logo="https://unidesign.com.br/wp-content/uploads/2016/02/post-nova-identidade-AXN-1-1080x675.png", AXN HD
+http://lista.lorddark.club:80/5247/5247/19155
+
+#EXTINF: -1 tvg-logo="https://unidesign.com.br/wp-content/uploads/2016/02/post-nova-identidade-AXN-1-1080x675.png", AXN HD (perna)
+http://lista.lorddark.club/5247/5247/19511
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png", CANAL SONY HD
+http://lista.lorddark.club:80/5247/5247/19170
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png", CINEMAX HD
+http://lista.lorddark.club:80/5247/5247/19175
+
+#EXTINF: -1 tvg-logo="https://img2.gratispng.com/20180616/yv/kisspng-comedy-central-logo-tv-televisão-comédia-comédia-central-polônia-5b25087dbbf1b4.0643248415291536617698.jpg", COMEDY CENTRAL HD
+http://lista.lorddark.club:80/5247/5247/19179
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/FOX-Channel-Germany.svg/1200px-FOX-Channel-Germany.svg.png", FOX FHD
+http://lista.lorddark.club:80/5247/5247/19099
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/FOX-Channel-Germany.svg/1200px-FOX-Channel-Germany.svg.png", FOX HD
+http://lista.lorddark.club:80/5247/5247/19217
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/FOX-Channel-Germany.svg/1200px-FOX-Channel-Germany.svg.png", FOX HD (leg)
+http://lista.lorddark.club/5247/5247/19513
+
+#EXTINF: -1 tvg-logo="https://2.bp.blogspot.com/-NCtbqB3QSwY/VxvdB1ZK9mI/AAAAAAAAqv0/Wr2ZqWP-m8oXkc2bNpuDevhXpsHP7kdHQCLcB/s1600/LOGO-FOX-Life.jpg", FOX LIFE HD
+http://lista.lorddark.club:80/5247/5247/19219
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Fox%2B_logo.png", FOX PREMIUM 1 HD
+http://lista.lorddark.club:80/5247/5247/19001
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Fox%2B_logo.png", FOX PREMIUM [alter]
+http://lista.lorddark.club/5247/5247/1105
+
+#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/39/f8/57/39f857846bc05dc1a611ae5fc736e600.png", FOX PREMIUM 2 HD
+http://lista.lorddark.club:80/5247/5247/19002
+
+#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/39/f8/57/39f857846bc05dc1a611ae5fc736e600.png", FOX PREMIUM 2 [alter]
+http://lista.lorddark.club/5247/5247/1106
+
+#EXTINF: -1 tvg-logo="https://naoseinada.com.br/wp-content/uploads/2017/09/fx-logo.jpg", FX HD
+http://lista.lorddark.club:80/5247/5247/19231
+
+#EXTINF: -1 tvg-logo="https://naoseinada.com.br/wp-content/uploads/2017/09/fx-logo.jpg", FX HD (leg)
+http://lista.lorddark.club/5247/5247/19533
+
+#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-5t2hfDa4OLs/XIbelmtDiDI/AAAAAAABS0s/IC2YcfVdX_wxIhyAqdl_9 <3>-auvv5_stiqgCLcBGAs/w1200-h630-p-k-no-nu/8e98b42584b1a930aee9241e73fa.png", MEGAPIX HD
+http://lista.lorddark.club:80/5247/5247/19267
+
+#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-5t2hfDa4OLs/XIbelmtDiDI/AAAAAAABS0s/IC2YcfVdX_wxIhyAqdl_9-auvv5_stiqgCLcBGAs/w1200-h630-p-k-no-nu/8e98b42584b1a930aee9241e73fa.png", MEGAPIX HD (perna)
+http://lista.lorddark.club/5247/5247/19537
+
+#EXTINF: -1 tvg-logo="https://res.cloudinary.com/walljobs/image/upload/v1533913915/mramefzfwzxtasquslgw.png", PARAMOUNT HD
+http://lista.lorddark.club:80/5247/5247/19288
+
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-rYwZhGBJZdU/XM5BsO_CaYI/AAAAAAABUrI/yrJOEcxR7JUypJu2YMs8dyd6uG6EmsACBBGAYCw/s1600/SPACE-min.jpg", SPACE HD
+http://lista.lorddark.club:80/5247/5247/19321
+
+#EXTINF: -1 tvg-logo="https://w7.pngwing.com/pngs/183/651/png-transparent-universal-channel-television-channel-studio-universal-pay-televis-space-television-text-trademark.png", STUDIO UNIVERSAL HD
+http://lista.lorddark.club/5247/5247/19329
+
+#EXTINF: -1 tvg-logo="https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fw p-content%2Fuploads%2Fsites%2F6%2F2017%2F05%2Fdefault-2000.jpg", SYFY HD
+http://lista.lorddark.club/5247/5247/19319
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/TBS_logo_2016.svg/1200px-TBS_logo_2016.svg.png", TBS HD
+http://lista.lorddark.club/5247/5247/19331
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1000px-TNT_Logo_2016.svg.png", TNT HD
+http://lista.lorddark.club/5247/5247/19349
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1000px-TNT_Logo_2016.svg.png", TNT HD (leg)
+http://lista.lorddark.club/5247/5247/19531
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1000px-TNT_Logo_2016.svg.png", TNT SERIES HD
+http://lista.lorddark.club/5247/5247/19351
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1000px-TNT_Logo_2016.svg.png", TNT SERIES HD (leg)
+http://lista.lorddark.club/5247/5247/19541
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png", UNIVERSAL TV HD
+http://lista.lorddark.club/5247/5247/19365
+
+#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-wZIUTCuWh60/XjW96tHOTNI/AAAAAAABg3w/0PQ5puYMdJIIsPGuddyx58jIWKoYhtvBbBBBGAsYHQ/s640/Warner.jpg
+http://lista.lorddark.club/5247/5247/19372
+
+#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-wZIUTCuWh60/XjW96tHOTNI/AAAAAAAABg3w/0PQ5puYMdJIIsPGuddyx58jIWKoYhtvBgCBBBGAsYHQ/s640/Warner.jpg", WARNER CHANNEL HD (leg)
+http://lista.lorddark.club/5247/5247/19543
+
+#EXTINF: -1 tvg-logo="https://i.pinimg.com/600x315/04/bc/c9/04bcc9f062ef063e9ca6116eeb749d0f.jpg", TELECINE ACTION HD
+http://lista.lorddark.club/5247/5247/19334
+
+#EXTINF: -1 tvg-logo="https://i.pinimg.com/600x315/04/bc/c9/04bcc9f062ef063e9ca6116eeb749d0f.jpg", TELECINE ACTION HD (leg)
+http://lista.lorddark.club/5247/5247/19521
+
+#EXTINF: -1 tvg-logo="https://2.bp.blogspot.com/-Pqh6urVKRR0/UzdjvfnfDBI/AAAAAAAh4Q/xqCFFP7Hb_k/s1600/CULT_preto_gato.png", TELECINE CULT HD
+http://lista.lorddark.club/5247/5247/19336
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Telecine_Fun_2.png", TELECINE FUN HD
+http://lista.lorddark.club/5247/5247/19338
+
+#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/52/ab/95/52ab95a9fad63cc4f92e0de7a0d6f00d.jpg", TELECINE PIPOCA HD
+http://lista.lorddark.club/5247/5247/19340
+
+#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/52/ab/95/52ab95a9fad63cc4f92e0de7a0d6f00d.jpg", TELECINE PIPOCA HD (perna)
+http://lista.lorddark.club/5247/5247/19525
+
+#EXTINF: -1 tvg-logo="https://global-uploads.webflow.com/5af0435070b69bd997f828c6/5d3b1f2e6e3cf04f4d0e6440_telecine-premium%20(1).png", TELECINE PREMIUM HD
+http://lista.lorddark.club/5247/5247/19342
+
+#EXTINF: -1 tvg-logo="https://global-uploads.webflow.com/5af0435070b69bd997f828c6/5d3b1f2e6e3cf04f4d0e6440_telecine-premium%20(1).png", TELECINE PREMIUM HD (leg)
+http://lista.lorddark.club/5247/5247/19527
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Telecine_Touch_3.png", TELECINE TOUCH HD 
+http://lista.lorddark.club/5247/5247/19344
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Telecine_Touch_3.png", TELECINE TOUCH HD (leg)
+http://lista.lorddark.club/5247/5247/19529
+
+#EXTINF: -1 tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/HBO-LOGO.png", HBO HD
+http://lista.lorddark.club/5247/5247/19247
+
+#EXTINF: -1 tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/HBO-LOGO.png", HBO HD (leg)
+http://lista.lorddark.club/5247/5247/19515
+
+#EXTINF: -1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/hbo2b.png", HBO 2 HD
+http://lista.lorddark.club/5247/5247/19244
+
+#EXTINF: -1 tvg-logo="https://img2.gratispng.com/20180806/euw/kisspng-logo-product-design-brand-font-combate-ao-vivo-hd-online-kalentri-2018-5b68ae9e1ee8f5.6751575315335871021266.jpg", HBO PLUS HD
+http://lista.lorddark.club/5247/5247/19249
+
+#EXTINF: -1 tvg-logo="https://img2.gratispng.com/20180806/euw/kisspng-logo-product-design-brand-font-combate-ao-vivo-hd-online-kalentri-2018-5b68ae9e1ee8f5.6751575315335871021266.jpg", HBO PLUS HD (leg)
+http://lista.lorddark.club/5247/5247/19517
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png", HBO FAMILY HD
+http://lista.lorddark.club/5247/5247/19246
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png", HBO SIGNATURE HD
+http://lista.lorddark.club/5247/5247/19251
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1200px-HBO_Mundi.svg.png", HBO MUNDI HD
+http://lista.lorddark.club/5247/5247/19261
+
+#EXTINF: -1 tvg-logo="https://redecanaistv.com/imgs-videos/Canais/hbopop.jpg", HBO POP HD	
+http://lista.lorddark.club/5247/5247/19265
+
+#EXTINF: -1 tvg-logo="https://redecanaistv.com/imgs-videos/Canais/hbopop.jpg", HBO POP HD (leg)
+http://lista.lorddark.club/5247/5247/19535
+
+#EXTINF: -1 tvg-logo="https://redecanaistv.com/imgs-videos/Canais/hboxtreme.jpg", HBO XTREME HD
+http://lista.lorddark.club/5247/5247/19263
+
+#EXTINF: -1 tvg-logo="https://comocomprar.com.br/wp-content/uploads/2014/12/Cine-Sky.jpg", CINE SKY HD
+http://lista.lorddark.club/5247/5247/44914
+
+#EXTINF: -1 tvg-logo="https://comocomprar.com.br/wp-content/uploads/2014/12/Cine-Sky.jpg", CINE SKY 2 HD
+http://lista.lorddark.club/5247/5247/44915
+
+#EXTINF: -1 tvg-logo="https://comocomprar.com.br/wp-content/uploads/2014/12/Cine-Sky.jpg", CINE SKY 3 HD
+http://lista.lorddark.club/5247/5247/44916
+
+#EXTINF: -1 tvg-logo="https://comocomprar.com.br/wp-content/uploads/2014/12/Cine-Sky.jpg", CINE SKY 4 HD
+http://lista.lorddark.club/5247/5247/44917
+
+#EXTINF: -1 tvg-logo="https://comocomprar.com.br/wp-content/uploads/2014/12/Cine-Sky.jpg", CINE SKY 5 HD
+http://lista.lorddark.club/5247/5247/44918
+
+#EXTINF: -1 tvg-logo="https://comocomprar.com.br/wp-content/uploads/2014/12/Cine-Sky.jpg", CINE SKY 6 HD
+http://lista.lorddark.club/5247/5247/44919
+
+#EXTINF: -1 tvg-logo="https://comocomprar.com.br/wp-content/uploads/2014/12/Cine-Sky.jpg", CINE SKY 7 HD
+http://lista.lorddark.club/5247/5247/44920
+
+#EXTINF: -1 tvg-logo="https://comocomprar.com.br/wp-content/uploads/2014/12/Cine-Sky.jpg", CINE SKY 8 HD
+http://lista.lorddark.club/5247/5247/44921
+
+#EXTINF: -1 tvg-logo="https://comocomprar.com.br/wp-content/uploads/2014/12/Cine-Sky.jpg", CINE SKY 9 HD
+http://lista.lorddark.club/5247/5247/44922
+
+#EXTINF: -1 tvg-logo="https://comocomprar.com.br/wp-content/uploads/2014/12/Cine-Sky.jpg", CINE SKY 10 HD
+http://lista.lorddark.club/5247/5247/44923
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png", BOOMERANG HD
+http://lista.lorddark.club/5247/5247/19166
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Cartoon_Network_2004_logo.svg/1280px-Cartoon_Network_2004_logo.svg.png", CARTOON NETWORK HD
+http://lista.lorddark.club/5247/5247/19173
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png", DISCOVERY KIDS HD
+http://lista.lorddark.club/5247/5247/19189
+
+#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/ae/a4/1d/aea41dd0f4a1c935742f5e3629b183b.png", DISNEY CHANNEL HD
+http://lista.lorddark.club/5247/5247/19199
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/HNCqSdX.png", DISNEY JR HD
+http://lista.lorddark.club/5247/5247/19375
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_Disney_XD.png", DISNEY XD HD
+http://lista.lorddark.club/5247/5247/1099
+
+#EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/05/gloob-logo.png", GLOOB HD
+http://lista.lorddark.club/5247/5247/19235
+
+#EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/05/gloob-logo.png", GLOBBINHO HD
+http://lista.lorddark.club/5247/5247/19236
+
+#EXTINF: -1 tvg-logo="https://3.bp.blogspot.com/-y-d0fTjACJI/WbsumfRXw3I/AAAAAAAAAA-8k/biLnclDIaAE5T-UNcNq_Ns7qnSH2lIDKACPcBGAYYCw/s1600/nat%2Bgeo%2Bkids-ouniversodatv.png", NAT GEO KIDS HD
+http://lista.lorddark.club/5247/5247/19277
+
+#EXTINF: -1 tvg-logo="https://assets.fontsinuse.com/static/use-media-items/6/5699/full-664x664/56701c4c4c4c/664px-Nickelodeon_logo.png?resolution=0", NICKELODEON HD
+http://lista.lorddark.club/5247/5247/19284
+
+#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/da/a4/c5/daa4c5f3bcd8d8d67ac7b06de63d793bf1.png", NICK JR HD
+http://lista.lorddark.club/5247/5247/19282
+
+#EXTINF: -1 tvg-logo="https://th.bing.com/th/id/Ref38e2ab35b9158a1dc3846ef1235ba1?rik=Ufbo75%2finetKYA&riu=http%3a%2f%2fwww.digitaltvnews.net%2fwp-content%2fuploads%2f2016%2f03%2fplaykids.png&ehk=60B3NpIjbeh7Iluv%2biCevSa2RfKX2b0n8yLQRMYDHVo%3d&risl=&pid=ImgRaw", PLAYKIDS  HD
+http://lista.lorddark.club/5247/5247/19385
+
+#EXTINF: -1 tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/6a/Logo_ratimbum.jpg/revision/latest?cb=20160511061156", TV RÁ-TIM-BUM HD
+http://lista.lorddark.club/5247/5247/19361
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/1280px-Animal_Planet_logo.svg.png", ANIMAL PLANET HD
+http://lista.lorddark.club/5247/5247/19151
+
+#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/ae/a4/1d/aea41dd0f4a1c935742f5e3629b183b.png", DISCOVERY CHANNEL HD
+http://lista.lorddark.club/5247/5247/19183
+
+#EXTINF: -1 tvg-logo="https://img2.gratispng.com/20180514/vuw/kisspng-discovery-science-television-channel-discovery-cha-5af9a924f36451.229423741526312049969.jpg", SCIENCE DISCOVERY HD
+http://lista.lorddark.club/5247/5247/19191
+
+#EXTINF: -1 tvg-logo="https://cf-media.press.discovery.com/ugc/logos/2016/05/05/120038/LOGO_THEATER_BLACK.jpg", DISCOVERY THEATER HD
+http://lista.lorddark.club/5247/5247/19193
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png", DISCOVERY TURBO HD
+http://lista.lorddark.club/5247/5247/19195
+
+#EXTINF: -1 tvg-logo="https://w7.pngwing.com/pngs/920/176/png-transparent-discovery-world-discovery-hd-discovery-channel-logo-hd-logo-televisão-text-logo.png", DISCOVERY WORLD HD
+http://lista.lorddark.club/5247/5247/19197
+
+#EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo-5.png", DISCOVERY H&H HD
+http://lista.lorddark.club/5247/5247/19187
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/ID_-_Investiga%C3%A7%C3%A3o_Discovery.png", ID- INVESTIGATION DISCOVERY HD
+http://lista.lorddark.club/5247/5247/19255
+
+#EXTINF: -1 tvg-logo="https://seeklogo.com/images/T/the-history-channel-logo-A5BA467B18-seeklogo.com.png", HISTORY CHANNEL HD
+http://lista.lorddark.club/5247/5247/19253
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png", H2 HD
+http://lista.lorddark.club/5247/5247/19241
+
+#EXTINF: -1 tvg-logo="https://609528.smushcdn.com/606234/wp-content/uploads/2020/01/National-Geographic-logo.jpg?lossy=1&strip=1&webp=1", NATIONAL GEOGRAPHIC
+http://lista.lorddark.club/5247/5247/19275
+
+#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/6c/9e/c0/6c9ec01d4a9a69672540d0dc29551f22.jpg", NATGEO WILD HD
+http://lista.lorddark.club/5247/5247/19278
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3/Arte_1_logo.svg/1200px-Arte_1_logo.svg.png", ARTE 1 HD
+http://lista.lorddark.club/5247/5247/19153
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Canal_Brasil_logo.svg/1200px-Canal_Brasil_logo.svg.png", CANAL BRASIL HD
+http://lista.lorddark.club/5247/5247/19168
+
+#EXTINF: -1 tvg-logo="https://i2.wp.com/telaviva.com.br/wp-content/uploads/2020/06/logo-canal-curta.png?fit=1368%2C718&ssl=1", CURTA! Hd
+http://lista.lorddark.club/5247/5247/19181
+
+#EXTINF: -1 tvg-logo="https://img2.gratispng.com/20180629/ss/kisspng-televis-channel-logo-e-etv-tv-canal-5b35d053a04617.98167236153025339565.jpg", E! Hd
+http://lista.lorddark.club/5247/5247/19203
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Food_Network_Logo.svg/1042px-Food_Network_Logo.svg.png", FOOD NETWORK HD
+http://lista.lorddark.club/5247/5247/19215
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/GNT_logo-roxo.svg/1200px-GNT_logo-roxo.svg.png", GNT HD
+http://lista.lorddark.club/5247/5247/19239
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/HGTV_2010.svg/1200px-HGTV_2010.svg.png", HGTV HD
+http://lista.lorddark.club/5247/5247/19185
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Lifetime_tv_logo.png", LIFETIME HD
+http://lista.lorddark.club/5247/5247/19257
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Mais_Globosat_logo_2016.svg/2000px-Mais_Globosat_logo_2016.svg.png", MAIS GLOBOSAT
+http://lista.lorddark.club/5247/5247/19259
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Canal_Off_logo.svg/1280px-Canal_Off_logo.svg.png", OFF HD
+http://lista.lorddark.club/5247/5247/19286
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png", TLC HD
+http://lista.lorddark.club/5247/5247/19347
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/TruTV_logo_2014.png/120px-TruTV_logo_2014.png", TRU TV HD
+http://lista.lorddark.club/5247/5247/19363
+
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ef/Canal_viva_logo_.png/revision/latest?cb=20140519221640", VIVA HD
+http://lista.lorddark.club/5247/5247/19370
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/Woohoo_logo_2014.png", WOOHOO HD
+http://lista.lorddark.club/5247/5247/19374
+
+#EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-bis-logo-1.png", BIS HD
+http://lista.lorddark.club/5247/5247/19164
+
+#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/62/8d/fa/628dfa4a2c13df943a99df8b913f60f.jpg", MTV HD 
+http://lista.lorddark.club/5247/5247/19269
+
+#EXTINF: -1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/multishow-logo.png", MULTISHOW HD
+http://lista.lorddark.club/5247/5247/19271
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/LogoMusicRoxo.png", MUSIC BOX BRASIL HD
+http://lista.lorddark.club/5247/5247/19273
+
+#EXTINF: -1 tvg-logo="https://boxbrazil.tv.br/wp-content/uploads/2019/06/logo-prime.png", PRIME BOX BRASIL HD
+http://lista.lorddark.club/5247/5247/19304
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1200px-VH1_logonew.svg.png", VH1 HD
+http://lista.lorddark.club/5247/5247/19367
+
+#EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/12/cancao-nova-logo.png", CANÇÃO NOVA HD
+http://lista.lorddark.club/5247/5247/19171
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png", REDE VIDA HD
+http://lista.lorddark.club/5247/5247/19380
+
+#EXTINF: -1 tvg-logo="https://th.bing.com/th/id/OIP.41o5rlbr0ILkOUPmY0GVMQAAAAA?pid=ImgDet&rs=1", TV RBC
+http://rbc.directradios.com:1935/rbc/smil:rbc.smil/playlist.m3u8?leogondim
+
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/Futura_logo_2007sec_2011main.png/revision/latest/scale-to-width-down/340?cb=20200229231754 FUTURA", HD
+http://lista.lorddark.club:80/5247/5247/1107
+
+#EXTINF: -1 tvg-logo="https://set.org.br/wp-content/uploads/2019/04/Logo-tv-brasil.png", TV BRASIL FHD
+http://lista.lorddark.club:80/5247/5247/19356 
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8/Cultura_logo_2013.svg/1180px-Cultura_logo_2013.svg.png", TV CULTURA FHD
+http://lista.lorddark.club:80/5247/5247/19049 
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/MAMGt7I.png", TV GAZETA FHD
+http://lista.lorddark.club:80/5247/5247/19090
+
+#EXTINF: -1 tvg-logo="https://th.bing.com/th/id/OIP.tRyx75CFSZkhnxewxYMIMwHaHa?pid=ImgDet&rs=1", TV ESCOLA 
+http://lista.lorddark.club/5247/5247/19358
+
+#EXTINF: -1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/canal-rural-logo.png", CANAL RURAL
+http://lista.lorddark.club/5247/5247/19573
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5d/Logo_CNT.png", CNT SP
+http://lista.lorddark.club/5247/5247/1093
+
+#EXTINF: -1 tvg-logo="https://seeklogo.com/images/C/canal-do-boi-logo-3819ABC39D-seeklogo.com.png", CANAL DO BOI
+http://lista.lorddark.club/5247/5247/19398
