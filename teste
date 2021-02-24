@@ -1,0 +1,64 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="0" tvg-name="A&E HDᶜᵈᶰ" tvg-logo="http://cdn.teambr.live:80/images/f53cb2e04640ca256232eba89d1fafba.png" group-title="Filmes e Series",A&E HDᶜᵈᶰ
+http://cdn.teambr.live/futqfh/voyndq/42
+#EXTINF:-1 tvg-id="0" tvg-name="A&E FullHD²" tvg-logo="http://cdn.teambr.live:80/images/d2cd4fc0e45fe49ccdc816c0286a38b4.png" group-title="Filmes e Series",A&E FullHD²
+http://cdn.teambr.live/futqfh/voyndq/463
+#EXTINF:-1 tvg-id="0" tvg-name="A&E HD²" tvg-logo="http://cdn.teambr.live:80/images/d2cd4fc0e45fe49ccdc816c0286a38b4.png" group-title="Filmes e Series",A&E HD²
+http://cdn.teambr.live/futqfh/voyndq/464
+#EXTINF:-1 tvg-id="" tvg-name="A&E SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/aande.png" group-title="Filmes e Series",A&E SD
+http://cdn.teambr.live/futqfh/voyndq/1
+#EXTINF:-1 tvg-id="0" tvg-name="AMC HDᶜᵈᶰ" tvg-logo="http://cdn.teambr.live:80/images/3654b34017508a963ccce2426e91e4cd.png" group-title="Filmes e Series",AMC HDᶜᵈᶰ
+http://cdn.teambr.live/futqfh/voyndq/43
+#EXTINF:-1 tvg-id="0" tvg-name="AMC FullHD²" tvg-logo="http://cdn.teambr.live:80/images/5d2360ffb20b0aa824e5c78be10f4d26.png" group-title="Filmes e Series",AMC FullHD²
+http://cdn.teambr.live/futqfh/voyndq/465
+#EXTINF:-1 tvg-id="0" tvg-name="Animal Planet HDᶜᵈᶰ" tvg-logo="http://cdn.teambr.live:80/images/40e4afcfd925c2e4ea83a767993ea8b0.png" group-title="Documentarios",Animal Planet HDᶜᵈᶰ
+http://cdn.teambr.live/futqfh/voyndq/44
+#EXTINF:-1 tvg-id="0" tvg-name="Animal Planet FullHD²" tvg-logo="http://cdn.teambr.live:80/images/582c7df78e099f78bc386424f707fdb6.png" group-title="Documentarios",Animal Planet FullHD²
+http://cdn.teambr.live/futqfh/voyndq/466
+#EXTINF:-1 tvg-id="0" tvg-name="Animal Planet HD²" tvg-logo="http://cdn.teambr.live:80/images/582c7df78e099f78bc386424f707fdb6.png" group-title="Documentarios",Animal Planet HD²
+http://cdn.teambr.live/futqfh/voyndq/467
+#EXTINF:-1 tvg-id="0" tvg-name="Art 1 HDᶜᵈᶰ" tvg-logo="http://cdn.teambr.live:80/images/0c1dbecee0f9e99f78d5014b07684068.png" group-title="Filmes e Series",Art 1 HDᶜᵈᶰ
+http://cdn.teambr.live/futqfh/voyndq/45
+#EXTINF:-1 tvg-id="0" tvg-name="AXN HDᶜᵈᶰ" tvg-logo="http://cdn.teambr.live:80/images/bd1b15c8213419fb880a2a5b5482ce42.png" group-title="Filmes e Series",AXN HDᶜᵈᶰ
+http://cdn.teambr.live/futqfh/voyndq/46
+#EXTINF:-1 tvg-id="0" tvg-name="Axn FullHD²" tvg-logo="http://cdn.teambr.live:80/images/24200e5458115164277932bc29676978.png" group-title="Filmes e Series",Axn FullHD²
+http://cdn.teambr.live/futqfh/voyndq/468
+#EXTINF:-1 tvg-id="0" tvg-name="AXN HD²" tvg-logo="http://cdn.teambr.live:80/images/24200e5458115164277932bc29676978.png" group-title="Filmes e Series",AXN HD²
+http://cdn.teambr.live/futqfh/voyndq/469
+#EXTINF:-1 tvg-id="" tvg-name="AXN SD" tvg-logo="http://cdn.teambr.live:80/images/bd1b15c8213419fb880a2a5b5482ce42.png" group-title="Filmes e Series",AXN SD
+http://cdn.teambr.live/futqfh/voyndq/2
+#EXTINF:-1 tvg-id="0" tvg-name="BABY HD ²" tvg-logo="http://cdn.teambr.live:80/images/39292ca1f0992baeac472dda168e98e0.png" group-title="Infantil",BABY HD ²
+http://cdn.teambr.live/futqfh/voyndq/470
+#EXTINF:-1 tvg-id="0" tvg-name="Baby Tv HDᶜᵈᶰ" tvg-logo="http://cdn.teambr.live:80/images/45914664eafc286fb139a5036f142106.png" group-title="Infantil",Baby Tv HDᶜᵈᶰ
+http://cdn.teambr.live/futqfh/voyndq/47
+#EXTINF:-1 tvg-id="0" tvg-name="Band HD²" tvg-logo="http://cdn.teambr.live:80/images/3dd32cdfe92a765ca90679863caab2b3.png" group-title="Infantil",Band HD²
+http://cdn.teambr.live/futqfh/voyndq/471
+#EXTINF:-1 tvg-id="0" tvg-name="Band News FullHD²" tvg-logo="http://cdn.teambr.live:80/images/5fef631055d0ccc80767eebe4707e7cf.png" group-title="Noticias",Band News FullHD²
+http://cdn.teambr.live/futqfh/voyndq/472
+#EXTINF:-1 tvg-id="0" tvg-name="Band News HDᶜᵈᶰ" tvg-logo="http://cdn.teambr.live:80/images/ecde17229a3d07369de3b9bb5ba43bc6.png" group-title="Noticias",Band News HDᶜᵈᶰ
+http://cdn.teambr.live/futqfh/voyndq/48
+#EXTINF:-1 tvg-id="0" tvg-name="Band PR HDᶜᵈᶰ" tvg-logo="http://cdn.teambr.live:80/images/574ff4699083ce51de0dabcfad5edc4c.png" group-title="Canais Abertos",Band PR HDᶜᵈᶰ
+http://cdn.teambr.live/futqfh/voyndq/49
+#EXTINF:-1 tvg-id="0" tvg-name="Band SP HDᶜᵈᶰ" tvg-logo="http://cdn.teambr.live:80/images/574ff4699083ce51de0dabcfad5edc4c.png" group-title="Canais Abertos",Band SP HDᶜᵈᶰ
+http://cdn.teambr.live/futqfh/voyndq/50
+#EXTINF:-1 tvg-id="" tvg-name="Band SP SD" tvg-logo="http://cdn.teambr.live:80/images/574ff4699083ce51de0dabcfad5edc4c.png" group-title="Canais Abertos",Band SP SD
+http://cdn.teambr.live/futqfh/voyndq/3
+#EXTINF:-1 tvg-id="0" tvg-name="Band Sports HDᶜᵈᶰ" tvg-logo="http://cdn.teambr.live:80/images/b92ca3bd619bfa5d2eed95d39938653d.png" group-title="Esportes",Band Sports HDᶜᵈᶰ
+http://cdn.teambr.live/futqfh/voyndq/51
+#EXTINF:-1 tvg-id="0" tvg-name="Band Sports FullHD²" tvg-logo="http://cdn.teambr.live:80/images/9f0c04f82d5bac992bceadeb37cc5bf7.png" group-title="Esportes",Band Sports FullHD²
+http://cdn.teambr.live/futqfh/voyndq/473
+#EXTINF:-1 tvg-id="0" tvg-name="Band Sports HD²" tvg-logo="http://cdn.teambr.live:80/images/9f0c04f82d5bac992bceadeb37cc5bf7.png" group-title="Esportes",Band Sports HD²
+http://cdn.teambr.live/futqfh/voyndq/474
+#EXTINF:-1 tvg-id="0" tvg-name="BIS HDᶜᵈᶰ" tvg-logo="http://cdn.teambr.live:80/images/227cee183f9b009e2f81f2f8339e281b.png" group-title="Musicas",BIS HDᶜᵈᶰ
+http://cdn.teambr.live/futqfh/voyndq/52
+#EXTINF:-1 tvg-id="0" tvg-name="Boomerang HDᶜᵈᶰ" tvg-logo="http://cdn.teambr.live:80/images/dd02529659d42a9a11bee759de133674.png" group-title="Infantil",Boomerang HDᶜᵈᶰ
+http://cdn.teambr.live/futqfh/voyndq/53
+#EXTINF:-1 tvg-id="0" tvg-name="Boomerang FullHD²" tvg-logo="http://cdn.teambr.live:80/images/498d21282da8800d6998b230050ffaf8.png" group-title="Infantil",Boomerang FullHD²
+http://cdn.teambr.live/futqfh/voyndq/475
+#EXTINF:-1 tvg-id="0" tvg-name="Boomerang HD ²" tvg-logo="http://cdn.teambr.live:80/images/498d21282da8800d6998b230050ffaf8.png" group-title="Infantil",Boomerang HD ²
+http://cdn.teambr.live/futqfh/voyndq/476
+#EXTINF:-1 tvg-id="0" tvg-name="Canal Curta HDᶜᵈᶰ" tvg-logo="http://cdn.teambr.live:80/images/399cf7bcbb3c17fd8802c9125c88665e.png" group-title="Variedades",Canal Curta HDᶜᵈᶰ
+http://cdn.teambr.live/futqfh/voyndq/54
+#EXTINF:-1 tvg-id="0" tvg-name="Cancao Nova HDᶜᵈᶰ" tvg-logo="http://cdn.teambr.live:80/images/ac0912817bf33b0fef41c564f7f12420.png" group-title="Religiosos",Cancao Nova HDᶜᵈᶰ
+http://cdn.teambr.live/futqfh/voyndq/55
