@@ -1,1 +1,4 @@
-Tempo esgotado
+#EXTM3U
+
+#EXTINF: -1 tvg-logo = "https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png", GLOBO RJ FHD
+rtmp://192.168.0.100/live/stream
