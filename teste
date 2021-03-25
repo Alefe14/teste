@@ -264,10 +264,8 @@ http://b5.vc:80/live/9JJCdQuZpt/fireurl.co/71815.ts
 http://b5.vc:80/live/9JJCdQuZpt/fireurl.co/90603.ts
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/campeonatocarioca.png" group-title="Canais | PPV",Campeonato Carioca 1 FHD
 http://b5.vc/live/9JJCdQuZpt/fireurl.co/96513.ts
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/campeonatocarioca.png" group-title="Canais | PPV",Teste
-http://b5.vc:1010/live/9JJCdQuZpt/fireurl.co/96513.ts
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/campeonatocarioca.png" group-title="Canais | PPV",Campeonato Carioca 1 FHD [H265]
-http://b5.vc:80/live/9JJCdQuZpt/fireurl.co/96514.ts
+http://b5.vc:1010/live/9JJCdQuZpt/fireurl.co/96513.ts
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/campeonatocarioca.png" group-title="Canais | PPV",Campeonato Carioca 1 HD
 http://b5.vc:80/live/9JJCdQuZpt/fireurl.co/96515.ts
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/campeonatocarioca.png" group-title="Canais | PPV",Campeonato Carioca 1 SD
