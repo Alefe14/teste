@@ -3,13 +3,13 @@
 #EXTINF:-1 tvg-logo="http://a5.vc/JHX" group-title="Canais | 4K [FHDR]",A&E 4K FHDR
 http://b5.vc:80/live/9JJCdQuZpt/fireurl.co/90647.m3u
 #EXTINF:-1 tvg-logo="http://a5.vc/JHX" group-title="Canais | Variedades",A&E FHD
-http://b5.vc:80/live/9JJCdQuZpt/fireurl.co/71760.ts
+http://b5.vc/live/9JJCdQuZpt/fireurl.co/71760.ts
 #EXTINF:-1 tvg-logo="http://a5.vc/JHX" group-title="Canais | Alternativos",A&E FHD [Alter]
-http://b5.vc:80/live/9JJCdQuZpt/fireurl.co/90625.ts
+http://b5.vc/live/9JJCdQuZpt/fireurl.co/90625.ts
 #EXTINF:-1 tvg-logo="http://a5.vc/JHX" group-title="Canais | Variedades",A&E FHD [H265]
 http://b5.vc:80/live/9JJCdQuZpt/fireurl.co/71761.ts
 #EXTINF:-1 tvg-logo="http://a5.vc/JHX" group-title="Canais | Variedades",A&E HD
-http://b5.vc:80/live/9JJCdQuZpt/fireurl.co/71762.ts
+http://b5.vc/live/9JJCdQuZpt/fireurl.co/71762.ts
 #EXTINF:-1 tvg-logo="http://a5.vc/JHX" group-title="Canais | Alternativos",A&E HD [Alter]
 http://b5.vc:80/live/9JJCdQuZpt/fireurl.co/90626.ts
 #EXTINF:-1 tvg-logo="http://a5.vc/JHX" group-title="Canais | Variedades",A&E SD
@@ -17,7 +17,7 @@ http://b5.vc:80/live/9JJCdQuZpt/fireurl.co/71763.ts
 #EXTINF:-1 tvg-logo="http://a5.vc/JHX" group-title="Canais | Alternativos",A&E SD [Alter]
 http://b5.vc:80/live/9JJCdQuZpt/fireurl.co/90627.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5UU8Ilm.png" group-title="Canais | Abertos",AgroMais FHD
-http://b5.vc:80/live/9JJCdQuZpt/fireurl.co/71764.ts
+http://b5.vc/live/9JJCdQuZpt/fireurl.co/71764.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5UU8Ilm.png" group-title="Canais | Abertos",AgroMais FHD [H265]
 http://b5.vc:80/live/9JJCdQuZpt/fireurl.co/71765.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5UU8Ilm.png" group-title="Canais | Abertos",AgroMais HD
