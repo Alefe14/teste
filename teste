@@ -3038,33 +3038,3 @@ http://b5.vc:80/live/9JJCdQuZpt/fireurl.co/90290.ts
 http://b5.vc:80/live/9JJCdQuZpt/fireurl.co/72430.ts
 #EXTINF:-1 tvg-logo="http://a5.vc/Qin" group-title="Canais | Alternativos",Viva SD [Alter]
 http://b5.vc:80/live/9JJCdQuZpt/fireurl.co/90291.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/BrP" group-title="Canais | 4K [FHDR]",Warner Channel 4K FHDR
-http://b5.vc:80/live/9JJCdQuZpt/fireurl.co/90236.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/BrP" group-title="Canais | Filmes e Séries",Warner Channel FHD
-http://b5.vc:80/live/9JJCdQuZpt/fireurl.co/72431.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/BrP" group-title="Canais | Alternativos",Warner Channel FHD [Alter]
-http://b5.vc:80/live/9JJCdQuZpt/fireurl.co/90286.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/BrP" group-title="Canais | Filmes e Séries",Warner Channel FHD [H265]
-http://b5.vc:80/live/9JJCdQuZpt/fireurl.co/72432.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/BrP" group-title="Canais | Legendados",Warner Channel FHD [LEG]
-http://b5.vc:80/live/9JJCdQuZpt/fireurl.co/90650.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/BrP" group-title="Canais | Filmes e Séries",Warner Channel HD
-http://b5.vc:80/live/9JJCdQuZpt/fireurl.co/72433.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/BrP" group-title="Canais | Alternativos",Warner Channel HD [Alter]
-http://b5.vc:80/live/9JJCdQuZpt/fireurl.co/90287.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/BrP" group-title="Canais | Legendados",Warner Channel HD [LEG]
-http://b5.vc:80/live/9JJCdQuZpt/fireurl.co/90649.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/BrP" group-title="Canais | Filmes e Séries",Warner Channel SD
-http://b5.vc:80/live/9JJCdQuZpt/fireurl.co/72434.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/BrP" group-title="Canais | Alternativos",Warner Channel SD [Alter]
-http://b5.vc:80/live/9JJCdQuZpt/fireurl.co/90288.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/BrP" group-title="Canais | Legendados",Warner Channel SD [LEG]
-http://b5.vc:80/live/9JJCdQuZpt/fireurl.co/90648.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/HhI" group-title="Canais | Variedades",WooHoo FHD
-http://b5.vc:80/live/9JJCdQuZpt/fireurl.co/72435.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/HhI" group-title="Canais | Variedades",WooHoo FHD [H265]
-http://b5.vc:80/live/9JJCdQuZpt/fireurl.co/72436.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/HhI" group-title="Canais | Variedades",WooHoo HD
-http://b5.vc:80/live/9JJCdQuZpt/fireurl.co/72437.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/HhI" group-title="Canais | Variedades",WooHoo SD
-http://b5.vc:80/live/9JJCdQuZpt/fireurl.co/72438.ts
