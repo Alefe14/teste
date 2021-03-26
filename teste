@@ -1,18 +1,25 @@
 #EXTM3U
 
-BBB21 (FHD 1080P)
+#EXTINF: -1 tvg-logo = "https://i.imgur.com/OiAwKd5.png" group-title = "CANAIS| ABERTOS", BBB21 (FHD 1080P)
 https://edge1.lkstream.ga/live/fc1f72c4191deee55b95/playlist.m3u8
-PFC (FHD 1080P)
+
+#EXTINF: -1 tvg-logo = "https://i.imgur.com/OiAwKd5.png" group-title = "CANAIS| ABERTOS", PFC (FHD 1080P)
 https://edge1.lkstream.ga/live/6a248f40f6c5db0a024b/playlist.m3u8
-COMBATE (FHD 1080P)
+
+#EXTINF: -1 tvg-logo = "https://i.imgur.com/OiAwKd5.png" group-title = "CANAIS| ABERTOS", COMBATE (FHD 1080P)
 https://edge1.lkstream.ga/live/f518193b155b408d1fc4/playlist.m3u8
-SPORTV (FHD 1080P)
+
+#EXTINF: -1 tvg-logo = "https://i.imgur.com/OiAwKd5.png" group-title = "CANAIS| ABERTOS", SPORTV (FHD 1080P)
 https://edge1.lkstream.ga/live/a7c2cb57f7182f964d72/playlist.m3u8
-SPORTV 2 (FHD 1080P)
+
+#EXTINF: -1 tvg-logo = "https://i.imgur.com/OiAwKd5.png" group-title = "CANAIS| ABERTOS", SPORTV 2 (FHD 1080P)
 https://edge1.lkstream.ga/live/457e3d6350dd865a58d8/playlist.m3u8
-SPORTV 3 (FHD 1080P)
+
+#EXTINF: -1 tvg-logo = "https://i.imgur.com/OiAwKd5.png" group-title = "CANAIS| ABERTOS", SPORTV 3 (FHD 1080P)
 https://edge1.lkstream.ga/live/50ac2b10f40a2b17a6b4/playlist.m3u8
-FOX SPORTS (FHD 1080P)
+
+#EXTINF: -1 tvg-logo = "https://i.imgur.com/OiAwKd5.png" group-title = "CANAIS| ABERTOS", FOX SPORTS (FHD 1080P)
 https://edge1.lkstream.ga/live/b2acc6164c55674ecd81/playlist.m3u8
-FOX SPORTS 2 (FHD 1080P)
+
+#EXTINF: -1 tvg-logo = "https://i.imgur.com/OiAwKd5.png" group-title = "CANAIS| ABERTOS", FOX SPORTS 2 (FHD 1080P)
 https://edge1.lkstream.ga/live/17b30e4d77a71200d022/playlist.m3u8
