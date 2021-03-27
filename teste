@@ -1,8 +1,5 @@
 # EXTM3U
 
-#EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="GLOBO BRASILIA FHD H265" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png" group-title="CANAIS GLOBO", GLOBO RJ  FHD
-http://lista.lorddark.club/5247/5247/19425
-
 #EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="GLOBO RJ FHD H265" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png" group-title="CANAIS GLOBO", GLOBO RJ FHD 
 http://pdsrv.io:80/live/jnxoeqqn/1761BxzuOz/61299.ts
 
