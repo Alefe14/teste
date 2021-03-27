@@ -1143,35 +1143,3 @@ http://lista.lorddark.club/5247/5247/201341
 #EXTINF: -1 tvg-logo="https://globo-sala-de-imprensa.s3.amazonaws.com/CACHE/images/imagens/logotipos/programas/logo_BBB_20_fundo_branco_Hu3yGEd/ce4441dff9955ee4a39941bc3e2457d5.jpg", BBB CAM| ACADEMIA
 http://lista.lorddark.club/5247/5247/201345
 
-#EXTINF:-1 tvg-id="BBB21 - CAM 8" tvg-name="BBB 2021 (Academia)" tvg-logo="https://capricho.abril.com.br/wp-content/uploads/2019/10/big-brother-brasil.png" group-title="Canais- BBB 21",BBB 2021 (Academia)
-http://pdsrv.io:80/live/jnxoeqqn/1761BxzuOz/75646.ts
-
-#EXTINF:-1 tvg-id="BBB21 - CASA 2" tvg-name="BBB 2021 (Acompanhe a casa 2)" tvg-logo="https://capricho.abril.com.br/wp-content/uploads/2019/10/big-brother-brasil.png" group-title="Canais- BBB 21",BBB 2021 (Acompanhe a casa 2)
-http://pdsrv.io:80/live/jnxoeqqn/1761BxzuOz/75650.ts
-
-#EXTINF:-1 tvg-id="BBB21 - CASA 1" tvg-name="BBB 2021 (Acompanhe a Casa)" tvg-logo="https://capricho.abril.com.br/wp-content/uploads/2019/10/big-brother-brasil.png" group-title="Canais- BBB 21",BBB 2021 (Acompanhe a Casa)
-http://pdsrv.io:80/live/jnxoeqqn/1761BxzuOz/75645.ts
-
-#EXTINF:-1 tvg-id="BBB21 - CAM 7" tvg-name="BBB 2021 (Confessionario )" tvg-logo="https://capricho.abril.com.br/wp-content/uploads/2019/10/big-brother-brasil.png" group-title="Canais- BBB 21",BBB 2021 (Confessionario )
-http://pdsrv.io:80/live/jnxoeqqn/1761BxzuOz/75648.ts
-
-#EXTINF:-1 tvg-id="BBB21 - CAM 5" tvg-name="BBB 2021 (Cozinha Vip/Xepa)" tvg-logo="https://capricho.abril.com.br/wp-content/uploads/2019/10/big-brother-brasil.png" group-title="Canais- BBB 21",BBB 2021 (Cozinha Vip/Xepa)
-http://pdsrv.io:80/live/jnxoeqqn/1761BxzuOz/75652.ts
-
-#EXTINF:-1 tvg-id="BBB21 - CAM 3" tvg-name="BBB 2021 (Jardim)" tvg-logo="https://capricho.abril.com.br/wp-content/uploads/2019/10/big-brother-brasil.png" group-title="Canais- BBB 21",BBB 2021 (Jardim)
-http://pdsrv.io:80/live/jnxoeqqn/1761BxzuOz/75655.ts
-
-#EXTINF:-1 tvg-id="BBB21 - CAM 9" tvg-name="BBB 2021 (Piscina)" tvg-logo="https://capricho.abril.com.br/wp-content/uploads/2019/10/big-brother-brasil.png" group-title="Canais- BBB 21",BBB 2021 (Piscina)
-http://pdsrv.io:80/live/jnxoeqqn/1761BxzuOz/75654.ts
-
-#EXTINF:-1 tvg-id="BBB21 - CAM 6" tvg-name="BBB 2021 (Quarto Cordel)" tvg-logo="https://capricho.abril.com.br/wp-content/uploads/2019/10/big-brother-brasil.png" group-title="Canais- BBB 21",BBB 2021 (Quarto Cordel)
-http://pdsrv.io:80/live/jnxoeqqn/1761BxzuOz/75649.ts
-
-#EXTINF:-1 tvg-id="BBB21 - CAM 4" tvg-name="BBB 2021 (Sala de Estar)" tvg-logo="https://capricho.abril.com.br/wp-content/uploads/2019/10/big-brother-brasil.png" group-title="Canais- BBB 21",BBB 2021 (Sala de Estar)
-http://pdsrv.io:80/live/jnxoeqqn/1761BxzuOz/75653.ts
-
-#EXTINF:-1 tvg-id="BBB21 - CAM 2" tvg-name="BBB 21 (CHUVEIRO)" tvg-logo="https://capricho.abril.com.br/wp-content/uploads/2019/10/big-brother-brasil.png" group-title="Canais- BBB 21",BBB 21 (CHUVEIRO)
-http://pdsrv.io:80/live/jnxoeqqn/1761BxzuOz/75717.ts
-
-#EXTINF:-1 tvg-id="BBB21 - CAM 1" tvg-name="BBB 21 (QUARTO COLORIDO)" tvg-logo="https://capricho.abril.com.br/wp-content/uploads/2019/10/big-brother-brasil.png" group-title="Canais- BBB 21",BBB 21 (QUARTO COLORIDO)
-http://pdsrv.io:80/live/jnxoeqqn/1761BxzuOz/75718.ts
