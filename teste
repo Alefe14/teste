@@ -281,28 +281,40 @@ http://lista.lorddark.club/5247/5247/19578
 
 #EXTINF:-1 tvg-id="CONMEBOL TV 1" tvg-name="CONMEBOL 1" tvg-logo="https://logospng.org/download/copa-libertadores/logo-copa-libertadores-256.png" group-title="LIBERTADORES CONMEBOL",CONMEBOL 1
 http://pdsrv.io:80/live/jnxoeqqn/1761BxzuOz/68350.ts
+
 #EXTINF:-1 tvg-id="CONMEBOL TV 1" tvg-name="CONMEBOL 1" tvg-logo="https://logospng.org/download/copa-libertadores/logo-copa-libertadores-256.png" group-title="LIBERTADORES CONMEBOL",CONMEBOL 1
 http://pdsrv.io:80/live/jnxoeqqn/1761BxzuOz/68348.ts
+
 #EXTINF:-1 tvg-id="CONMEBOL TV 2" tvg-name="CONMEBOL 2" tvg-logo="https://logospng.org/download/copa-libertadores/logo-copa-libertadores-256.png" group-title="LIBERTADORES CONMEBOL",CONMEBOL 2
 http://pdsrv.io:80/live/jnxoeqqn/1761BxzuOz/68351.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 2" tvg-logo="https://logospng.org/download/copa-libertadores/logo-copa-libertadores-256.png" group-title="LIBERTADORES CONMEBOL",CONMEBOL 2
 http://pdsrv.io:80/live/jnxoeqqn/1761BxzuOz/68349.ts
+
 #EXTINF:-1 tvg-id="CONMEBOL TV 3" tvg-name="CONMEBOL 3" tvg-logo="https://logospng.org/download/copa-libertadores/logo-copa-libertadores-256.png" group-title="LIBERTADORES CONMEBOL",CONMEBOL 3
 http://pdsrv.io:80/live/jnxoeqqn/1761BxzuOz/68352.ts
+
 #EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png", CONMEMBOL TV FHD
 http://lista.lorddark.club/5247/5247/201446
+
 #EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png", CONMEMBOL TV  HD
 http://lista.lorddark.club/5247/5247/201454
+
 #EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png", CONMEMBOL TV 2 FHD
 http://lista.lorddark.club/5247/5247/201447
+
 #EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png", CONMEMBOL TV 2 HD
 http://lista.lorddark.club/5247/5247/201438
+
 #EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png", CONMEMBOL TV 3 FHD
 http://lista.lorddark.club/5247/5247/201448
+
 #EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png", CONMEMBOL TV 3 HD
 http://lista.lorddark.club/5247/5247/201464
+
 #EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png", CONMEMBOL TV 4 FHD
 http://lista.lorddark.club/5247/5247/201449
+
 #EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png", CONMEMBOL TV 4 HD
 http://lista.lorddark.club/5247/5247/201440
 
@@ -1058,73 +1070,108 @@ https://01.paineldevideo.com/encaucafm/encaucafm/chunklist_w1433790179.m3u8
 
 #EXTINF: -1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/61be88f543cd5b3709fbcc691ea1cde8.png", CONEXÃO TV 
 https://video01.kshost.com.br/gilson1332/gilson1332/chunklist_w1373686561.m3u8
+
 #EXTINF: -1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/468a51d6031a373ec56983564ebf9ff8.jpg", TV CARIOCA 
 https://srv5.zcast.com.br/tvcarioca/tvcarioca/chunklist_w273551475.m3u8
+
 #EXTINF: -1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5eb82f6fd9799db20a7129633e7a605b.png", MUNDO TV 
 https://59f1cbe63db89.streamlock.net:1443/mundotv/_definst_/mundotv/chunklist_w1020149132.m3u8
+
 #EXTINF: -1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/e6aa0ad770325c0c0b656ab54716e542.png", TV MAX 
 https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/chunklist_w681654246.m3u
+
 #EXTINF: -1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/1ef59e88801387f71231a6b12a5c0db6.png", TV SÉRIES 
 https://stmv1.srvstm.com/tvserie/tvserie/chunklist_w902763871.m3u8
+
 #EXTINF: -1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/b8b4774a12ecb9843affeb4c817a3c0f.jpg", PORTO CANAL 
 https://streamer-a03.videos.sapo.pt/live/portocanal/chunklist_w47558121.m3u8
+
 #EXTINF: -1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/be908a654dd4c6705a0d6d663c4e853e.png", KURIAKOS TV 
 http://195.22.11.11:1935/ktv/ktv2/chunklist_w1387388582.m3u8
+
 #ETINF: -1 tvg-logo="https://www2.camara.leg.br/comunicacao/assessoria-de-imprensa/historico/avisos-de-pauta-releases/tv-camara-estreia-canal-digital-em-brasilia/image_large", TV CÂMARA
 http://lista.lorddark.club/5247/5247/602
+
 #EXTINF: -1 tvg-logo="https://seeklogo.com/images/T/tv-senado-logo-EAED558180-seeklogo.com.gif", TV SENADO
 http://lista.lorddark.club/5247/5247/608
+
 #EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/c0/a9/af/c0a9afa9583ae4d1c339d967e37ba191.jpg", TV JUSTIÇA
 http://lista.lorddark.club/5247/5247/605
+
 #EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png", GLOBO RJ [alter]
 http://lista.lorddark.club/5247/5247/743
+
 #EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png", GLOBO SP [alter]
 http://lista.lorddark.club/5247/5247/745
+
 #EXTINF: -1 tvg-logo="https://globo-sala-de-imprensa.s3.amazonaws.com/CACHE/images/imagens/logotipos/programas/logo_BBB_20_fundo_branco_Hu3yGEd/ce4441dff9955ee4a39941bc3e2457d5.jpg", BBB CAM| MOSAICO
 http://lista.lorddark.club/5247/5247/203818
+
 #EXTINF: -1 tvg-logo="https://globo-sala-de-imprensa.s3.amazonaws.com/CACHE/images/imagens/logotipos/programas/logo_BBB_20_fundo_branco_Hu3yGEd/ce4441dff9955ee4a39941bc3e2457d5.jpg", BBB CAM| MOSAICO+
 http://lista.lorddark.club/5247/5247/203817
+
 #EXTINF: -1 tvg-logo="https://globo-sala-de-imprensa.s3.amazonaws.com/CACHE/images/imagens/logotipos/programas/logo_BBB_20_fundo_branco_Hu3yGEd/ce4441dff9955ee4a39941bc3e2457d5.jpg", BBB CAM| PRINCIPAL
 http://lista.lorddark.club/5247/5247/203816
+
 #EXTINF: -1 tvg-logo="https://globo-sala-de-imprensa.s3.amazonaws.com/CACHE/images/imagens/logotipos/programas/logo_BBB_20_fundo_branco_Hu3yGEd/ce4441dff9955ee4a39941bc3e2457d5.jpg", BBB CAM| SECND
 http://lista.lorddark.club/5247/5247/203815
+
 #EXTINF: -1 tvg-logo="https://globo-sala-de-imprensa.s3.amazonaws.com/CACHE/images/imagens/logotipos/programas/logo_BBB_20_fundo_branco_Hu3yGEd/ce4441dff9955ee4a39941bc3e2457d5.jpg", BBB CAM| CONFESSIONÁRIO
 http://lista.lorddark.club/5247/5247/203814
+
 #EXTINF: -1 tvg-logo="https://globo-sala-de-imprensa.s3.amazonaws.com/CACHE/images/imagens/logotipos/programas/logo_BBB_20_fundo_branco_Hu3yGEd/ce4441dff9955ee4a39941bc3e2457d5.jpg", BBB CAM| QUARTO CORDEL
 http://lista.lorddark.club/5247/5247/203813
+
 #EXTINF: -1 tvg-logo="https://globo-sala-de-imprensa.s3.amazonaws.com/CACHE/images/imagens/logotipos/programas/logo_BBB_20_fundo_branco_Hu3yGEd/ce4441dff9955ee4a39941bc3e2457d5.jpg", BBB CAM| QUARTO COLORIDO
 http://lista.lorddark.club/5247/5247/203812
+
 #EXTINF: -1 tvg-logo="https://globo-sala-de-imprensa.s3.amazonaws.com/CACHE/images/imagens/logotipos/programas/logo_BBB_20_fundo_branco_Hu3yGEd/ce4441dff9955ee4a39941bc3e2457d5.jpg", BBB CAM| CHUVEIRO
 http://lista.lorddark.club/5247/5247/203811
+
 #EXTINF: -1 tvg-logo="https://globo-sala-de-imprensa.s3.amazonaws.com/CACHE/images/imagens/logotipos/programas/logo_BBB_20_fundo_branco_Hu3yGEd/ce4441dff9955ee4a39941bc3e2457d5.jpg", BBB CAM| COZINHA VIP
 http://lista.lorddark.club/5247/5247/201343
+
 #EXTINF: -1 tvg-logo="https://globo-sala-de-imprensa.s3.amazonaws.com/CACHE/images/imagens/logotipos/programas/logo_BBB_20_fundo_branco_Hu3yGEd/ce4441dff9955ee4a39941bc3e2457d5.jpg", BBB CAM| SALA
 http://lista.lorddark.club/5247/5247/201344
+
 #EXTINF: -1 tvg-logo="https://globo-sala-de-imprensa.s3.amazonaws.com/CACHE/images/imagens/logotipos/programas/logo_BBB_20_fundo_branco_Hu3yGEd/ce4441dff9955ee4a39941bc3e2457d5.jpg", BBB CAM| PISCINA
 http://lista.lorddark.club/5247/5247/201342
+
 #EXTINF: -1 tvg-logo="https://globo-sala-de-imprensa.s3.amazonaws.com/CACHE/images/imagens/logotipos/programas/logo_BBB_20_fundo_branco_Hu3yGEd/ce4441dff9955ee4a39941bc3e2457d5.jpg", BBB CAM| JARDIM
 http://lista.lorddark.club/5247/5247/201341
+
 #EXTINF: -1 tvg-logo="https://globo-sala-de-imprensa.s3.amazonaws.com/CACHE/images/imagens/logotipos/programas/logo_BBB_20_fundo_branco_Hu3yGEd/ce4441dff9955ee4a39941bc3e2457d5.jpg", BBB CAM| ACADEMIA
 http://lista.lorddark.club/5247/5247/201345
+
 #EXTINF:-1 tvg-id="BBB21 - CAM 8" tvg-name="BBB 2021 (Academia)" tvg-logo="https://capricho.abril.com.br/wp-content/uploads/2019/10/big-brother-brasil.png" group-title="Canais- BBB 21",BBB 2021 (Academia)
 http://pdsrv.io:80/live/jnxoeqqn/1761BxzuOz/75646.ts
+
 #EXTINF:-1 tvg-id="BBB21 - CASA 2" tvg-name="BBB 2021 (Acompanhe a casa 2)" tvg-logo="https://capricho.abril.com.br/wp-content/uploads/2019/10/big-brother-brasil.png" group-title="Canais- BBB 21",BBB 2021 (Acompanhe a casa 2)
 http://pdsrv.io:80/live/jnxoeqqn/1761BxzuOz/75650.ts
+
 #EXTINF:-1 tvg-id="BBB21 - CASA 1" tvg-name="BBB 2021 (Acompanhe a Casa)" tvg-logo="https://capricho.abril.com.br/wp-content/uploads/2019/10/big-brother-brasil.png" group-title="Canais- BBB 21",BBB 2021 (Acompanhe a Casa)
 http://pdsrv.io:80/live/jnxoeqqn/1761BxzuOz/75645.ts
+
 #EXTINF:-1 tvg-id="BBB21 - CAM 7" tvg-name="BBB 2021 (Confessionario )" tvg-logo="https://capricho.abril.com.br/wp-content/uploads/2019/10/big-brother-brasil.png" group-title="Canais- BBB 21",BBB 2021 (Confessionario )
 http://pdsrv.io:80/live/jnxoeqqn/1761BxzuOz/75648.ts
+
 #EXTINF:-1 tvg-id="BBB21 - CAM 5" tvg-name="BBB 2021 (Cozinha Vip/Xepa)" tvg-logo="https://capricho.abril.com.br/wp-content/uploads/2019/10/big-brother-brasil.png" group-title="Canais- BBB 21",BBB 2021 (Cozinha Vip/Xepa)
 http://pdsrv.io:80/live/jnxoeqqn/1761BxzuOz/75652.ts
+
 #EXTINF:-1 tvg-id="BBB21 - CAM 3" tvg-name="BBB 2021 (Jardim)" tvg-logo="https://capricho.abril.com.br/wp-content/uploads/2019/10/big-brother-brasil.png" group-title="Canais- BBB 21",BBB 2021 (Jardim)
 http://pdsrv.io:80/live/jnxoeqqn/1761BxzuOz/75655.ts
+
 #EXTINF:-1 tvg-id="BBB21 - CAM 9" tvg-name="BBB 2021 (Piscina)" tvg-logo="https://capricho.abril.com.br/wp-content/uploads/2019/10/big-brother-brasil.png" group-title="Canais- BBB 21",BBB 2021 (Piscina)
 http://pdsrv.io:80/live/jnxoeqqn/1761BxzuOz/75654.ts
+
 #EXTINF:-1 tvg-id="BBB21 - CAM 6" tvg-name="BBB 2021 (Quarto Cordel)" tvg-logo="https://capricho.abril.com.br/wp-content/uploads/2019/10/big-brother-brasil.png" group-title="Canais- BBB 21",BBB 2021 (Quarto Cordel)
 http://pdsrv.io:80/live/jnxoeqqn/1761BxzuOz/75649.ts
+
 #EXTINF:-1 tvg-id="BBB21 - CAM 4" tvg-name="BBB 2021 (Sala de Estar)" tvg-logo="https://capricho.abril.com.br/wp-content/uploads/2019/10/big-brother-brasil.png" group-title="Canais- BBB 21",BBB 2021 (Sala de Estar)
 http://pdsrv.io:80/live/jnxoeqqn/1761BxzuOz/75653.ts
+
 #EXTINF:-1 tvg-id="BBB21 - CAM 2" tvg-name="BBB 21 (CHUVEIRO)" tvg-logo="https://capricho.abril.com.br/wp-content/uploads/2019/10/big-brother-brasil.png" group-title="Canais- BBB 21",BBB 21 (CHUVEIRO)
 http://pdsrv.io:80/live/jnxoeqqn/1761BxzuOz/75717.ts
+
 #EXTINF:-1 tvg-id="BBB21 - CAM 1" tvg-name="BBB 21 (QUARTO COLORIDO)" tvg-logo="https://capricho.abril.com.br/wp-content/uploads/2019/10/big-brother-brasil.png" group-title="Canais- BBB 21",BBB 21 (QUARTO COLORIDO)
 http://pdsrv.io:80/live/jnxoeqqn/1761BxzuOz/75718.ts
