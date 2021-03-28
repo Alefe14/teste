@@ -1,5 +1,8 @@
 # EXTM3U
 
+#EXTINF: -1 tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2020/01/espn-logo_divulgacao-820x305.png", ESPN FHD 
+http://pdsrv.io:80/live/jnxoeqqn/1761BxzuOz/61448.ts
+
 #EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png", GLOBO RJ  FHD
 http://lista.lorddark.club/5247/5247/19425
 
