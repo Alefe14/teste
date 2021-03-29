@@ -1,37 +1,37 @@
 # EXTM3U
 
-EXTINF 1- tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Big_Ten_Network_Logo.svg/1200px-Big_Ten_Network_Logo.svg.png", BTN(PT)
+#EXTINF 1- tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Big_Ten_Network_Logo.svg/1200px-Big_Ten_Network_Logo.svg.png", BTN(PT)
 http://us1-external-sources.iptvserver.tv/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/490.m3u8
 
-EXTINF 1- tvg-logo="http://www.ogol.com.br/img/logos/edicoes/140351_imgbank_.png", CARRIOCA 1
+#EXTINF 1- tvg-logo="http://www.ogol.com.br/img/logos/edicoes/140351_imgbank_.png", CARRIOCA 1
 http://akamaizedx.com/live/Laurinha/Laurinha2021/10053458.m3u8
 
-EXTINF 1- tvg-logo="https://television-gratis.com/wp-content/uploads/2020/07/eleven-sports-2.jpg", ELEVEN SPORTS 1 FHD(PT)
+#EXTINF 1- tvg-logo="https://television-gratis.com/wp-content/uploads/2020/07/eleven-sports-2.jpg", ELEVEN SPORTS 1 FHD(PT)
 http://titanlivetv.com:8080/live/Edith/Edith123/7518.m3u8
 
-EXTINF 1- tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-7.png" ,FORMULA 1
+#EXTINF 1- tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-7.png" ,FORMULA 1
 http://us1-external-sources.iptvserver.tv/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/517.m3u8
 
-EXTINF 1- tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/Fox_Sports_College.png", FOX COLLEGE SPORTS(ES)
+#EXTINF 1- tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/Fox_Sports_College.png", FOX COLLEGE SPORTS(ES)
 http://us1-external-sources.iptvserver.tv/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/542.m3u8
 
-EXTINF 1- tvg-logo="https://www.pngkey.com/png/full/16-164102_fox-tv-logo-png-fox-deportes-logo-png.png", FOX SPORTS (ES)
+#EXTINF 1- tvg-logo="https://www.pngkey.com/png/full/16-164102_fox-tv-logo-png-fox-deportes-logo-png.png", FOX SPORTS (ES)
 http://us1-external-sources.iptvserver.tv/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/531.m3u8
 
-EXTINF 1- tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/320px-FS2_logo_2015.svg.png", FS1
+#EXTINF 1- tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/320px-FS2_logo_2015.svg.png", FS1
 http://us1-external-sources.iptvserver.tv/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/549.m3u8
 
-EXTINF 1- tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2017/08/FS2-Logo_1040x585-354x200.jpg", FS2
+#EXTINF 1- tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2017/08/FS2-Logo_1040x585-354x200.jpg", FS2
 http://us1-external-sources.iptvserver.tv/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/550.m3u8
 
-EXTINF 1- tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Golf_Channel_Logo.png/1200px-Golf_Channel_Logo.png", GOLF CHANNEL
+#EXTINF 1- tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Golf_Channel_Logo.png/1200px-Golf_Channel_Logo.png", GOLF CHANNEL
 http://us1-external-sources.iptvserver.tv/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/558.m3u8 
 
-EXTINF 1- tvg-logo="https://seeklogo.com/images/N/nba-tv-logo-585DF08BF0-seeklogo.com.png", NBA HD(US)
+#EXTINF 1- tvg-logo="https://seeklogo.com/images/N/nba-tv-logo-585DF08BF0-seeklogo.com.png", NBA HD(US)
 http://us1-external-sources.iptvserver.tv/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/600.m3u8
 
-EXTINF 1- tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/eb/NBA_Premium_Logo_TV_2017.png", NBA-1 PPV(US)
+#EXTINF 1- tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/eb/NBA_Premium_Logo_TV_2017.png", NBA-1 PPV(US)
 http://us1-external-sources.iptvserver.tv/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1142.m3u8 
 
-EXTINF 1- tvg-logo="https://seeklogo.com/images/U/univision-deportes-logo-79C578256D-seeklogo.com.png", UNIVISION SPORTS
+#EXTINF 1- tvg-logo="https://seeklogo.com/images/U/univision-deportes-logo-79C578256D-seeklogo.com.png", UNIVISION SPORTS
 http://us1-external-sources.iptvserver.tv/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/666.m3u8
