@@ -32,3 +32,16 @@ http://b5.vc:80/live/9JJCdQuZpt/fireurl.co/96519.ts
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f9/Carioca2017.png", Globo
 http://b5.vc:80/live/9JJCdQuZpt/fireurl.co/72025.ts
+
+#EXTINF:-1 tvg-id="BBB21 - CASA 1" tvg-name="BBB 2021 (Acompanhe a Casa)" tvg-logo="https://capricho.abril.com.br/wp-content/uploads/2019/10/big-brother-brasil.png" group-title="Canais- BBB 21",BBB 2021 (Acompanhe a Casa)
+http://b5.vc:80/live/9JJCdQuZpt/fireurl.co/89722.ts
+
+#EXTINF:-1 tvg-id="BBB21 - CASA 2" tvg-name="BBB 2021 (Acompanhe a casa 2)" tvg-logo="https://capricho.abril.com.br/wp-content/uploads/2019/10/big-brother-brasil.png" group-title="Canais- BBB 21",BBB 2021 (Acompanhe a casa 2)
+http://b5.vc:80/live/9JJCdQuZpt/fireurl.co/89714.ts
+
+#EXTINF:-1 tvg-id="BBB21 - CASA 2" tvg-name="BBB 2021 (Acompanhe a casa 2)" tvg-logo="https://capricho.abril.com.br/wp-content/uploads/2019/10/big-brother-brasil.png" group-title="Canais- BBB 21",BBB 2021 (Acompanhe a casa 3)
+http://b5.vc:80/live/9JJCdQuZpt/fireurl.co/93489.ts
+
+#EXTINF: -1 tvg-logo="https://globo-sala-de-imprensa.s3.amazonaws.com/CACHE/images/imagens/logotipos/programas/logo_BBB_20_fundo_branco_Hu3yGEd/ce4441dff9955ee4a39941bc3e2457d5.jpg", BBB CAM| (Mosáico FHD)
+http://b5.vc:80/live/9JJCdQuZpt/fireurl.co/89718.ts
+
