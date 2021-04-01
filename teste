@@ -11,3 +11,24 @@ http://topuhd.live:8080/live/Rodrigo/102030/73581.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f9/Carioca2017.png", CAMP. CARIOCA 2
 http://lista.lorddark.club/live/5247/5247/203962.m3u8
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f9/Carioca2017.png", CAMP. CARIOCA n1
+http://b5.vc:80/live/9JJCdQuZpt/fireurl.co/96513.ts
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f9/Carioca2017.png", CAMP. CARIOCA 265
+http://b5.vc:80/live/9JJCdQuZpt/fireurl.co/96514.ts
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f9/Carioca2017.png", CAMP. CARIOCA
+http://b5.vc:80/live/9JJCdQuZpt/fireurl.co/96515.ts
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f9/Carioca2017.png", CAMP. CARIOCA n2
+http://b5.vc:80/live/9JJCdQuZpt/fireurl.co/96517.ts
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f9/Carioca2017.png", CAMP. CARIOCA n3
+http://b5.vc:80/live/9JJCdQuZpt/fireurl.co/96518.ts
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f9/Carioca2017.png", CAMP. CARIOCA n4
+http://b5.vc:80/live/9JJCdQuZpt/fireurl.co/96519.ts
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f9/Carioca2017.png", Globo
+http://b5.vc:80/live/9JJCdQuZpt/fireurl.co/72025.ts
