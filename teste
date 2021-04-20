@@ -493,3 +493,455 @@ http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44288.m3u8
 http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44289.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BBB CAM 3 HD" tvg-logo="" group-title="BIG BROTHER",BBB CAM 3 HD
 http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44290.m3u8
+#EXTINF:-1 tvg-id="bandnews.br" tvg-name="BAND NEWS UHD" tvg-logo="http://toptv2.com:25461/logos/Band_news_UHD.png" group-title="NOTICIAS",BAND NEWS UHD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13669.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CGTN HD" tvg-logo="http://toptv2.com:25461/logos/CGTN.png" group-title="NOTICIAS",CGTN HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/41308.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN ARGENTINA HD" tvg-logo="http://toptv2.com:25461/logos/CNN_ARGENTINA_HD.png" group-title="NOTICIAS",CNN ARGENTINA HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/36888.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN BRASIL 4K" tvg-logo="http://toptv2.com:25461/logos/CNN_BRASIL_4K.png" group-title="NOTICIAS",CNN BRASIL 4K
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/36881.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN BRASIL HD" tvg-logo="http://toptv2.com:25461/logos/CNN_BRASIL_HD.png" group-title="NOTICIAS",CNN BRASIL HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/39357.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN CANADA HD" tvg-logo="http://toptv2.com:25461/logos/CNN_CANADA_HD.png" group-title="NOTICIAS",CNN CANADA HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/36885.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN CHILE HD" tvg-logo="http://toptv2.com:25461/logos/CNN_CHILE_HD.png" group-title="NOTICIAS",CNN CHILE HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/36883.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN COLOMBIA HD" tvg-logo="http://toptv2.com:25461/logos/CNN_COLOMBIA_HD.png" group-title="NOTICIAS",CNN COLOMBIA HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/36886.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN ESPANA HD" tvg-logo="http://toptv2.com:25461/logos/cnn_espa.png" group-title="NOTICIAS",CNN ESPANA HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/36890.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN ESPANHOL" tvg-logo="http://toptv2.com:25461/logos/cnn_espa.png" group-title="NOTICIAS",CNN ESPANHOL
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13871.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN ESPANHOL HD" tvg-logo="http://toptv2.com:25461/logos/cnn_espa.png" group-title="NOTICIAS",CNN ESPANHOL HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/36892.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN EUROPE HD" tvg-logo="http://toptv2.com:25461/logos/CNN_EUROPE_HD.png" group-title="NOTICIAS",CNN EUROPE HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/36884.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN INTERNACIONAL 4K" tvg-logo="http://toptv2.com:25461/logos/cnn-international.png" group-title="NOTICIAS",CNN INTERNACIONAL 4K
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/36893.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN INTERNACIONAL HD" tvg-logo="http://toptv2.com:25461/logos/cnn-international_HD.png" group-title="NOTICIAS",CNN INTERNACIONAL HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/14177.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN MEXICO HD" tvg-logo="http://toptv2.com:25461/logos/CNN_MEXICO_HD.png" group-title="NOTICIAS",CNN MEXICO HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/36889.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN SERIES HD" tvg-logo="http://toptv2.com:25461/logos/CNN_ORIGINAL_SERIES_HD.png" group-title="NOTICIAS",CNN SERIES HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/41863.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN TURK HD" tvg-logo="http://toptv2.com:25461/logos/CNN_TURK_HD.png" group-title="NOTICIAS",CNN TURK HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/36887.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN UK HD" tvg-logo="http://toptv2.com:25461/logos/CNN_USA_HD.png" group-title="NOTICIAS",CNN UK HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/36891.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN USA HD" tvg-logo="http://toptv2.com:25461/logos/CNN_USA_HD.png" group-title="NOTICIAS",CNN USA HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/36882.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNT HD" tvg-logo="http://toptv2.com:25461/logos/CNT.png" group-title="NOTICIAS",CNT HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/41309.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DW DEUTSCH HD" tvg-logo="http://toptv2.com:25461/logos/DW_HD.png" group-title="NOTICIAS",DW DEUTSCH HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/27258.m3u8
+#EXTINF:-1 tvg-id="globonews.br" tvg-name="GLOBO NEWS DF" tvg-logo="http://toptv2.com:25461/logos/globo-news-logo(1).png" group-title="NOTICIAS",GLOBO NEWS DF
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/14093.m3u8
+#EXTINF:-1 tvg-id="globonews.br" tvg-name="GLOBO NEWS MG HD" tvg-logo="http://toptv2.com:25461/logos/globo-news-logo(1).png" group-title="NOTICIAS",GLOBO NEWS MG HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13880.m3u8
+#EXTINF:-1 tvg-id="globonews.br" tvg-name="GLOBO NEWS SP 4K" tvg-logo="http://toptv2.com:25461/logos/globo-news-logo(1).png" group-title="NOTICIAS",GLOBO NEWS SP 4K
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/14176.m3u8
+#EXTINF:-1 tvg-id="globonews.br" tvg-name="GLOBO NEWS SP UHD" tvg-logo="http://toptv2.com:25461/logos/globo-news-logo(1).png" group-title="NOTICIAS",GLOBO NEWS SP UHD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13698.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NEWS CORONAVIRUS 4K" tvg-logo="http://toptv2.com:25461/logos/CONECTV%20SP.png" group-title="NOTICIAS",NEWS CORONAVIRUS 4K
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/36915.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NHK 4K" tvg-logo="http://img.miptv.ws/NHK.png" group-title="NOTICIAS",NHK 4K
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13884.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RECORD NEWS U4K" tvg-logo="http://toptv2.com:25461/logos/Record_News_U4K.png" group-title="NOTICIAS",RECORD NEWS U4K
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/14114.m3u8
+#EXTINF:-1 tvg-id="recordnews.br" tvg-name="RECORD NEWS UHD" tvg-logo="http://toptv2.com:25461/logos/Record_News_UHD.png" group-title="NOTICIAS",RECORD NEWS UHD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13761.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV5 MONDE" tvg-logo="http://toptv2.com:25461/logos/TV5.png" group-title="NOTICIAS",TV5 MONDE
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13914.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVE HD" tvg-logo="http://toptv2.com:25461/logos/TVE_HD.png" group-title="NOTICIAS",TVE HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/14168.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BAND MINAS UHD" tvg-logo="http://toptv2.com:25461/logos/band_minas_UHD.png" group-title="TV ABERTA",BAND MINAS UHD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13668.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BAND NORDESTE UHD" tvg-logo="http://toptv2.com:25461/logos/band_NORDESTE_UHD.png" group-title="TV ABERTA",BAND NORDESTE UHD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/27700.m3u8
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND SP 4K" tvg-logo="http://toptv2.com:25461/logos/band_SP_4K.png" group-title="TV ABERTA",BAND SP 4K
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/14179.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BOA VONTADE TV" tvg-logo="http://toptv2.com:25461/logos/boavontadetv.png" group-title="TV ABERTA",BOA VONTADE TV
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13869.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BOA VONTADE TV HD" tvg-logo="http://toptv2.com:25461/logos/boavontadetv.png" group-title="TV ABERTA",BOA VONTADE TV HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/36288.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CANCAO NOVA HD" tvg-logo="http://toptv2.com:25461/logos/cancaao-nova.png" group-title="TV ABERTA",CANCAO NOVA HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13772.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EPTV CENTRAL HD" tvg-logo="http://toptv2.com:25461/logos/EPTV_CENTRAL.png" group-title="TV ABERTA",EPTV CENTRAL HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/33369.m3u8
+#EXTINF:-1 tvg-id="futura.br" tvg-name="FUTURA 4K" tvg-logo="http://toptv2.com:25461/logos/Futura.png" group-title="TV ABERTA",FUTURA 4K
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13878.m3u8
+#EXTINF:-1 tvg-id="gloob.br" tvg-name="GLOBO BRASILIA 4K" tvg-logo="http://toptv2.com:25461/logos/BRASILIA_4K_GLOBO.png" group-title="TV ABERTA",GLOBO BRASILIA 4K
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/14153.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO BRASILIA HD" tvg-logo="http://toptv2.com:25461/logos/BRASILIA_HD_GLOBO.png" group-title="TV ABERTA",GLOBO BRASILIA HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/14091.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV CAMPINAS 4K" tvg-logo="http://toptv2.com:25461/logos/EPTV_CAMPINAS_GLOBO.png" group-title="TV ABERTA",GLOBO EPTV CAMPINAS 4K
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/36282.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV RIBEIRAO PRETO 4K" tvg-logo="http://toptv2.com:25461/logos/EPTV_RIBEIRAO_PRETO_GLOBO.png" group-title="TV ABERTA",GLOBO EPTV RIBEIRAO PRETO 4K
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/36284.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV SAO CARLOS HD" tvg-logo="http://toptv2.com:25461/logos/EPTV_SAO_CARLOS_GLOBO.png" group-title="TV ABERTA",GLOBO EPTV SAO CARLOS HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/36285.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTEGRAÇÃO 4K" tvg-logo="http://toptv2.com:25461/logos/MG_UHD_GLOBO.png" group-title="TV ABERTA",GLOBO INTEGRAÇÃO 4K
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/14169.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER TV CABUGI HD" tvg-logo="http://toptv2.com:25461/logos/INTER_TV_CABUGI_GLOBO.png" group-title="TV ABERTA",GLOBO INTER TV CABUGI HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/36287.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER TV JUIZ DE FORA HD" tvg-logo="http://toptv2.com:25461/logos/INTER_TV_JUIZ_DE_FORA_GLOBO.png" group-title="TV ABERTA",GLOBO INTER TV JUIZ DE FORA HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/36286.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO MINAS 4K" tvg-logo="http://toptv2.com:25461/logos/MINAS_4K_GLOBO.png" group-title="TV ABERTA",GLOBO MINAS 4K
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13909.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NORDESTE 4K" tvg-logo="http://toptv2.com:25461/logos/NORDESTE_4K_GLOBO.png" group-title="TV ABERTA",GLOBO NORDESTE 4K
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/41859.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NORDESTE HD" tvg-logo="http://toptv2.com:25461/logos/NORDESTE_HD_GLOBO.png" group-title="TV ABERTA",GLOBO NORDESTE HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/41860.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO PORTUGAL 4K" tvg-logo="http://toptv2.com:25461/logos/portugal_GLOBO.png" group-title="TV ABERTA",GLOBO PORTUGAL 4K
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/41876.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS PORTO ALEGRE HD" tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/5/5c/RBS_TV_logo_2008.png/revision/latest?cb=20151110112348" group-title="TV ABERTA",GLOBO RBS PORTO ALEGRE HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/36290.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RIO PRETO HD" tvg-logo="http://toptv2.com:25461/logos/RIO_PRETO_GLOBO.png" group-title="TV ABERTA",GLOBO RIO PRETO HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13879.m3u8
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO RJ 4k" tvg-logo="http://toptv2.com:25461/logos/RJ_4K_GLOBO.png" group-title="TV ABERTA",GLOBO RJ 4k
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13910.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RPC CURITIBA 4K" tvg-logo="http://toptv2.com:25461/logos/RPC_CURITIBA_4K_GLOBO.png" group-title="TV ABERTA",GLOBO RPC CURITIBA 4K
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/40917.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RPC PARANAESE 4K" tvg-logo="http://toptv2.com:25461/logos/RPC_PARANA_4K_GLOBO.png" group-title="TV ABERTA",GLOBO RPC PARANAESE 4K
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13908.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO SP 4K" tvg-logo="http://toptv2.com:25461/logos/SP_4K_GLOBO.png" group-title="TV ABERTA",GLOBO SP 4K
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/14090.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV CENTRAL AMERICA CUIABA HD" tvg-logo="http://toptv2.com:25461/logos/Centro_America_GLOBO.png" group-title="TV ABERTA",GLOBO TV CENTRAL AMERICA CUIABA HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/36283.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV DIARIO 4K" tvg-logo="http://toptv2.com:25461/logos/Tvvv_diario.png" group-title="TV ABERTA",GLOBO TV DIARIO 4K
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/33364.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV MORENA 4K" tvg-logo="http://toptv2.com:25461/logos/Tv_morena_GLOBO.png" group-title="TV ABERTA",GLOBO TV MORENA 4K
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/33363.m3u8
+#EXTINF:-1 tvg-id="idealtv.br" tvg-name="IDEAL TV HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9b/Ideal_TV_logo.svg/revision/latest/scale-to-width-down/512?cb=20161026011832" group-title="TV ABERTA",IDEAL TV HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/14109.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NHK UHD" tvg-logo="http://toptv2.com:25461/logos/NHHK.png" group-title="TV ABERTA",NHK UHD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13921.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NSC BLUMENAU HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b6/2014_Globo_Premium.png/revision/latest?cb=20141221050850" group-title="TV ABERTA",NSC BLUMENAU HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/14161.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RBI TV HD" tvg-logo="http://toptv2.com:25461/logos/RBI_TV.png" group-title="TV ABERTA",RBI TV HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/36294.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RBS TV PORTO ALEGRE 4K" tvg-logo="http://toptv2.com:25461/logos/RBS_TV.png" group-title="TV ABERTA",RBS TV PORTO ALEGRE 4K
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/14148.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RECORD BAHIA HD" tvg-logo="http://toptv2.com:25461/logos/record_bahia.png" group-title="TV ABERTA",RECORD BAHIA HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/41299.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RECORD BELEM HD" tvg-logo="http://toptv2.com:25461/logos/BELEM_RECORD.png" group-title="TV ABERTA",RECORD BELEM HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/41291.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RECORD BRASILIA HD" tvg-logo="http://toptv2.com:25461/logos/Brasilia_RECORD.png" group-title="TV ABERTA",RECORD BRASILIA HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/41293.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RECORD CAMPINAS 4K" tvg-logo="http://toptv2.com:25461/logos/RECORD_CAMPINAS.png" group-title="TV ABERTA",RECORD CAMPINAS 4K
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/41300.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RECORD DF HD" tvg-logo="http://toptv2.com:25461/logos/RECORD_MINAS_HD.png" group-title="TV ABERTA",RECORD DF HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/41296.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RECORD NORDESTE 4K" tvg-logo="http://toptv2.com:25461/logos/GOIAS_RECORD.png" group-title="TV ABERTA",RECORD NORDESTE 4K
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/41292.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RECORD HD" tvg-logo="http://toptv2.com:25461/logos/RECORD_HD.png" group-title="TV ABERTA",RECORD HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13896.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RECORD ITAPOA HD" tvg-logo="http://toptv2.com:25461/logos/ITAPOAN_RECORD.png" group-title="TV ABERTA",RECORD ITAPOA HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/41294.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RECORD MANAUS HD" tvg-logo="http://toptv2.com:25461/logos/MANAUS_HD_RECORD.png" group-title="TV ABERTA",RECORD MANAUS HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/41290.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RECORD NEWS UHD." tvg-logo="http://toptv2.com:25461/logos/Record_News_UHD.png" group-title="TV ABERTA",RECORD NEWS UHD.
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/41298.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RECORD PARANA HD" tvg-logo="http://toptv2.com:25461/logos/RECORD_PARANA_HD.png" group-title="TV ABERTA",RECORD PARANA HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/41295.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RECORD RIO HD" tvg-logo="https://cdn.mitvstatic.com/channels/br_record-tv-rio-hd_m.png" group-title="TV ABERTA",RECORD RIO HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/41297.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RECORD RJ 4K" tvg-logo="http://toptv2.com:25461/logos/RJ_4K_RECORED.png" group-title="TV ABERTA",RECORD RJ 4K
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/14175.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RECORD SP 4K" tvg-logo="http://toptv2.com:25461/logos/SP_4K_RECORDp.png" group-title="TV ABERTA",RECORD SP 4K
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13728.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RECORD SP INTERIOR HD" tvg-logo="http://toptv2.com:25461/logos/SP_Interior_RECORD.png" group-title="TV ABERTA",RECORD SP INTERIOR HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/41289.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="REDE AMAZONICA MANAUS" tvg-logo="http://toptv2.com:25461/logos/RedeAmazonica.png" group-title="TV ABERTA",REDE AMAZONICA MANAUS
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/14115.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="REDE BRASIL" tvg-logo="http://toptv2.com:25461/logos/rede-brasil.png" group-title="TV ABERTA",REDE BRASIL
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/33373.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="REDE BRASIL HD" tvg-logo="http://toptv2.com:25461/logos/rede-brasil.png" group-title="TV ABERTA",REDE BRASIL HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13831.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="REDE TV HD" tvg-logo="http://toptv2.com:25461/logos/RedeTV!.png" group-title="TV ABERTA",REDE TV HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13833.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RIT" tvg-logo="http://toptv2.com:25461/logos/RIT.png" group-title="TV ABERTA",RIT
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/14136.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SBT 4K" tvg-logo="http://toptv2.com:25461/logos/4K_SBT.png" group-title="TV ABERTA",SBT 4K
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/41302.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SBT BRASIL HD" tvg-logo="http://toptv2.com:25461/logos/BRASIL_SBT.png" group-title="TV ABERTA",SBT BRASIL HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/41307.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SBT CIDADE VERDE HD" tvg-logo="http://toptv2.com:25461/logos/TV_Cidade_Verde.png" group-title="TV ABERTA",SBT CIDADE VERDE HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/41301.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SBT GOIAS HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e0/SBT_Logo_1984.png/revision/latest/scale-to-width-down/340?cb=20190825025731" group-title="TV ABERTA",SBT GOIAS HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/41304.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SBT NORDESTE HD" tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/5/55/SBT_%281996-2001%29.png/revision/latest/top-crop/width/220/height/220?cb=20200318145135" group-title="TV ABERTA",SBT NORDESTE HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/41305.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SBT RJ 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/42/Logotipo_do_SBT_Interior_RJ.png/200px-Logotipo_do_SBT_Interior_RJ.png" group-title="TV ABERTA",SBT RJ 4K
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/41306.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SBT SD" tvg-logo="http://toptv2.com:25461/logos/SD_SBT.png" group-title="TV ABERTA",SBT SD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/41303.m3u8
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT TV JORNAL 4K" tvg-logo="http://toptv2.com:25461/logos/TV_JORNAL_SBT.png" group-title="TV ABERTA",SBT TV JORNAL 4K
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13920.m3u8
+#EXTINF:-1 tvg-id="terraviva.br" tvg-name="TERRA VIVA" tvg-logo="http://toptv2.com:25461/logos/Terra_Viva.png" group-title="TV ABERTA",TERRA VIVA
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/14145.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV ANHANGUERA GOIANIA" tvg-logo="http://toptv2.com:25461/logos/TV_Anhangueraaa.png" group-title="TV ABERTA",TV ANHANGUERA GOIANIA
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13915.m3u8
+#EXTINF:-1 tvg-id="tvaparecida.br" tvg-name="TV APARECIDA 4K" tvg-logo="http://toptv2.com:25461/logos/Aparecida.png" group-title="TV ABERTA",TV APARECIDA 4K
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13853.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV BAHIA 4K" tvg-logo="http://toptv2.com:25461/logos/tv_bahia.png" group-title="TV ABERTA",TV BAHIA 4K
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/36289.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV BRASIL 2" tvg-logo="http://toptv2.com:25461/logos/tv_brasil_2.png" group-title="TV ABERTA",TV BRASIL 2
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/33508.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV BRASIL HD" tvg-logo="http://toptv2.com:25461/logos/Tv_brasil.png" group-title="TV ABERTA",TV BRASIL HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13854.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV CAMARA HD" tvg-logo="http://toptv2.com:25461/logos/tv-camara.png" group-title="TV ABERTA",TV CAMARA HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13911.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV CENTRAL AMERICA CUIABA HD" tvg-logo="http://toptv2.com:25461/logos/TV_Centro_America.png" group-title="TV ABERTA",TV CENTRAL AMERICA CUIABA HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13792.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV CULTURA 4K" tvg-logo="http://toptv2.com:25461/logos/tv-cultura.png" group-title="TV ABERTA",TV CULTURA 4K
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13855.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV DIARIO FORTALEZA" tvg-logo="http://toptv2.com:25461/logos/TV_Diario_Fortalisa.png" group-title="TV ABERTA",TV DIARIO FORTALEZA
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/41862.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV EDUCAÇÃO" tvg-logo="http://toptv2.com:25461/logos/TV_Clube_GLOBO.png" group-title="TV ABERTA",TV EDUCAÇÃO
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/33371.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV ESCOLA HD" tvg-logo="http://toptv2.com:25461/logos/TV-Escola.png" group-title="TV ABERTA",TV ESCOLA HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13857.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV GUARULHOS HD " tvg-logo="http://toptv2.com:25461/logos/TV_ALTO_LITTORAL.png" group-title="TV ABERTA",TV GUARULHOS HD 
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/14092.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV HGTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/04/TV_Rio_Sul.png" group-title="TV ABERTA",TV HGTV HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/36291.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV JUSTICIA HD" tvg-logo="http://toptv2.com:25461/logos/tv-justica.png" group-title="TV ABERTA",TV JUSTICIA HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13903.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV LIBERAL BELEM HD" tvg-logo="http://images.mi.tv/channels/br_tv-liberal_m.png" group-title="TV ABERTA",TV LIBERAL BELEM HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/14146.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV NOVO TEMPO 4K" tvg-logo="http://toptv2.com:25461/logos/TV_Novo_Tempo.png" group-title="TV ABERTA",TV NOVO TEMPO 4K
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13862.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV PAI ETERNO" tvg-logo="http://toptv2.com:25461/logos/TV_Pai_Eterno.png" group-title="TV ABERTA",TV PAI ETERNO
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/41861.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV RA TIM BUM UHD" tvg-logo="http://toptv2.com:25461/logos/tvr-atim-bbum.png" group-title="TV ABERTA",TV RA TIM BUM UHD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/14095.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV SENADO HD" tvg-logo="http://toptv2.com:25461/logos/tv-senado.png" group-title="TV ABERTA",TV SENADO HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13912.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV TEM BAURU HD" tvg-logo="http://toptv2.com:25461/logos/TV_TEM_BAURU.png" group-title="TV ABERTA",TV TEM BAURU HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13856.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV TEM SAO JOSE DP RIO PRETO HD" tvg-logo="http://toptv2.com:25461/logos/RIO_PRETO_GLOBO.png" group-title="TV ABERTA",TV TEM SAO JOSE DP RIO PRETO HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/33509.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV TEM SOROCABA" tvg-logo="http://toptv2.com:25461/logos/TV_TEM_SOROCABA.png" group-title="TV ABERTA",TV TEM SOROCABA
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13916.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV TEM SOROCABA HD" tvg-logo="http://toptv2.com:25461/logos/TV_TEM_SOROCABA.png" group-title="TV ABERTA",TV TEM SOROCABA HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/33370.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV TRIBUNA SANTOS" tvg-logo="http://toptv2.com:25461/logos/TV_Tribuna_(Santos).png" group-title="TV ABERTA",TV TRIBUNA SANTOS
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13913.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV TRIBUNA SANTOS HD" tvg-logo="http://toptv2.com:25461/logos/TV_Tribuna_(Santos).png" group-title="TV ABERTA",TV TRIBUNA SANTOS HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/36293.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV VANGUARDA S. J. DOS CAMPOS HD" tvg-logo="http://toptv2.com:25461/logos/tv_vanguarda.png" group-title="TV ABERTA",TV VANGUARDA S. J. DOS CAMPOS HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/36292.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV VERDES MARES FORTALEZA HD" tvg-logo="http://toptv2.com:25461/logos/TV_Verdes_Mares.png" group-title="TV ABERTA",TV VERDES MARES FORTALEZA HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/33366.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RJ HD" tvg-logo="" group-title="TV ABERTA",GLOBO RJ HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44259.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CANAL BOI HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0014/4679/brand.gif?itok=Xj6Hpup2" group-title="TV ABERTA",CANAL BOI HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44291.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO BAHIA HD" tvg-logo="" group-title="TV ABERTA",GLOBO BAHIA HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44301.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BAND SPORTS 4K" tvg-logo="http://toptv2.com:25461/logos/bandsports-4K.png" group-title="ESPORTES",BAND SPORTS 4K
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13670.m3u8
+#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE 4K" tvg-logo="http://toptv2.com:25461/logos/combate_4K.png" group-title="ESPORTES",COMBATE 4K
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/14178.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="COMBATE UHD" tvg-logo="http://toptv2.com:25461/logos/combate_UHD.png" group-title="ESPORTES",COMBATE UHD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13675.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV1 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRGpaJYpApqMyHReo-BioGCc2oFdBQPpuzybw&usqp=CAU" group-title="ESPORTES",CONMEBOL TV1 4K
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/43521.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV2 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRGpaJYpApqMyHReo-BioGCc2oFdBQPpuzybw&usqp=CAU" group-title="ESPORTES",CONMEBOL TV2 4K
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/43522.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV3 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRGpaJYpApqMyHReo-BioGCc2oFdBQPpuzybw&usqp=CAU" group-title="ESPORTES",CONMEBOL TV3 4K
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/43523.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV4 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRGpaJYpApqMyHReo-BioGCc2oFdBQPpuzybw&usqp=CAU" group-title="ESPORTES",CONMEBOL TV4 4K
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/43524.m3u8
+#EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 2" tvg-logo="http://toptv2.com:25461/logos/ESPN_2.png" group-title="ESPORTES",ESPN 2
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13893.m3u8
+#EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 2 UHD" tvg-logo="http://toptv2.com:25461/logos/ESPN_2_UHD.png" group-title="ESPORTES",ESPN 2 UHD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13860.m3u8
+#EXTINF:-1 tvg-id="espnbrasil.br" tvg-name="ESPN BRASIL FHD" tvg-logo="http://toptv2.com:25461/logos/ESPN_Brasil_FHD.png" group-title="ESPORTES",ESPN BRASIL FHD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/14111.m3u8
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN BRASIL UHD" tvg-logo="http://toptv2.com:25461/logos/ESPN_Brasil_UHD.png" group-title="ESPORTES",ESPN BRASIL UHD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13686.m3u8
+#EXTINF:-1 tvg-id="espnextra.br" tvg-name="ESPN EXTRA UHD" tvg-logo="http://toptv2.com:25461/logos/espn_extra_uhd.png" group-title="ESPORTES",ESPN EXTRA UHD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/27260.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN FHD" tvg-logo="http://toptv2.com:25461/logos/ESPN_FHD.png" group-title="ESPORTES",ESPN FHD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13685.m3u8
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN UHD" tvg-logo="http://toptv2.com:25461/logos/ESPN_UHD.png" group-title="ESPORTES",ESPN UHD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/14112.m3u8
+#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="FOX SPORTS 2 U4K" tvg-logo="http://toptv2.com:25461/logos/Fox-Sports-2_U4K.png" group-title="ESPORTES",FOX SPORTS 2 U4K
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13694.m3u8
+#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="FOX SPORTS 2 UHD" tvg-logo="http://toptv2.com:25461/logos/Fox-Sports-2_U4K.png" group-title="ESPORTES",FOX SPORTS 2 UHD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/14107.m3u8
+#EXTINF:-1 tvg-id="foxsports.br" tvg-name="FOX SPORTS U4K" tvg-logo="http://toptv2.com:25461/logos/fox_sports_hd.png" group-title="ESPORTES",FOX SPORTS U4K
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13695.m3u8
+#EXTINF:-1 tvg-id="foxsports.br" tvg-name="FOX SPORTS UHD" tvg-logo="http://toptv2.com:25461/logos/fox_sports_hd.png" group-title="ESPORTES",FOX SPORTS UHD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/14108.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PFC +" tvg-logo="http://toptv2.com:25461/logos/pfc.png" group-title="ESPORTES",PFC +
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13820.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 1 4K" tvg-logo="http://toptv2.com:25461/logos/pfc.png" group-title="ESPORTES",PREMIERE 1 4K
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/41866.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 1 UHD" tvg-logo="http://toptv2.com:25461/logos/pfc.png" group-title="ESPORTES",PREMIERE 1 UHD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/41867.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 2 4K" tvg-logo="http://toptv2.com:25461/logos/Premiere_2.png" group-title="ESPORTES",PREMIERE 2 4K
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/41865.m3u8
+#EXTINF:-1 tvg-id="premiere2.br" tvg-name="PREMIERE 2 UHD" tvg-logo="http://toptv2.com:25461/logos/Premiere_2.png" group-title="ESPORTES",PREMIERE 2 UHD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13723.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 3 4K" tvg-logo="http://toptv2.com:25461/logos/Premiere_3.png" group-title="ESPORTES",PREMIERE 3 4K
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/41868.m3u8
+#EXTINF:-1 tvg-id="premiere3.br" tvg-name="PREMIERE 3 UHD" tvg-logo="http://toptv2.com:25461/logos/Premiere_3.png" group-title="ESPORTES",PREMIERE 3 UHD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13724.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 4 4K" tvg-logo="http://toptv2.com:25461/logos/Premiere_4.png" group-title="ESPORTES",PREMIERE 4 4K
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/41864.m3u8
+#EXTINF:-1 tvg-id="premiere4.br" tvg-name="PREMIERE 4 UHD" tvg-logo="http://toptv2.com:25461/logos/Premiere_4.png" group-title="ESPORTES",PREMIERE 4 UHD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13725.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 5 4K" tvg-logo="http://toptv2.com:25461/logos/Premiere_5.png" group-title="ESPORTES",PREMIERE 5 4K
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/41869.m3u8
+#EXTINF:-1 tvg-id="premiere5.br" tvg-name="PREMIERE 5 UHD" tvg-logo="http://toptv2.com:25461/logos/Premiere_5.png" group-title="ESPORTES",PREMIERE 5 UHD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13726.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 6 4K" tvg-logo="http://toptv2.com:25461/logos/Premiere_6.png" group-title="ESPORTES",PREMIERE 6 4K
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/41870.m3u8
+#EXTINF:-1 tvg-id="premiere6.br" tvg-name="PREMIERE 6 UHD" tvg-logo="http://toptv2.com:25461/logos/Premiere_6.png" group-title="ESPORTES",PREMIERE 6 UHD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13759.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 7 4K" tvg-logo="http://toptv2.com:25461/logos/Premiere_7.png" group-title="ESPORTES",PREMIERE 7 4K
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/41871.m3u8
+#EXTINF:-1 tvg-id="premiere7.br" tvg-name="PREMIERE 7 UHD" tvg-logo="http://toptv2.com:25461/logos/Premiere_7.png" group-title="ESPORTES",PREMIERE 7 UHD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13757.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 8 UHD" tvg-logo="http://toptv2.com:25461/logos/Premiere_8.png" group-title="ESPORTES",PREMIERE 8 UHD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13892.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 9 UHD" tvg-logo="http://toptv2.com:25461/logos/Premiere_9.png" group-title="ESPORTES",PREMIERE 9 UHD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13895.m3u8
+#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIERE CLUBES 4K" tvg-logo="http://toptv2.com:25461/logos/premiere-clubes.png" group-title="ESPORTES",PREMIERE CLUBES 4K
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/14160.m3u8
+#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIERE CLUBES FHD" tvg-logo="http://toptv2.com:25461/logos/premiere-clubes.png" group-title="ESPORTES",PREMIERE CLUBES FHD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13727.m3u8
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2 U4K" tvg-logo="http://toptv2.com:25461/logos/sport_tv_2_U4K.png" group-title="ESPORTES",SPORTV 2 U4K
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/14170.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV 2 UHD" tvg-logo="http://toptv2.com:25461/logos/sport_tv_2_UHD.png" group-title="ESPORTES",SPORTV 2 UHD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13732.m3u8
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORTV 3 U4K" tvg-logo="http://toptv2.com:25461/logos/sport_tv_3_U4K.png" group-title="ESPORTES",SPORTV 3 U4K
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/14159.m3u8
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORTV 3 UHD" tvg-logo="http://toptv2.com:25461/logos/sport_tv_3_UHD.png" group-title="ESPORTES",SPORTV 3 UHD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13733.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV ALTERNATIVO" tvg-logo="https://multimidia.gazetadopovo.com.br/media/info/2018/201811/marcas-tv-transmissao/logo-sportv-ppv.png" group-title="ESPORTES",SPORTV ALTERNATIVO
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/41872.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV ALTERNATIVO 1" tvg-logo="https://multimidia.gazetadopovo.com.br/media/info/2018/201811/marcas-tv-transmissao/logo-sportv-ppv.png" group-title="ESPORTES",SPORTV ALTERNATIVO 1
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/14156.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV ALTERNATIVO 2" tvg-logo="https://multimidia.gazetadopovo.com.br/media/info/2018/201811/marcas-tv-transmissao/logo-sportv-ppv.png" group-title="ESPORTES",SPORTV ALTERNATIVO 2
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/14126.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV U4K" tvg-logo="http://toptv2.com:25461/logos/Sport-TV_U4K.png" group-title="ESPORTES",SPORTV U4K
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13762.m3u8
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV UHD" tvg-logo="http://toptv2.com:25461/logos/Sport-TV.png" group-title="ESPORTES",SPORTV UHD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13734.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BTV 4K" tvg-logo="https://www.atelevisao.com/wp-content/uploads/2017/08/benfica-tv.png" group-title="ESPORTES",BTV 4K
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/43623.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 1 4K PT" tvg-logo="https://thumbs.web.sapo.io/?W=800&H=800&png=1&delay_optim=1&png=1&epic=ZTZiSedBAS1u31V3T0PoSHIu0l1luodHvaB0viN2KYWwT3dCE6wK/7dKuwKYEsvN/o9wyZJWHuMhokOt4Nks96QBRsa1yiXgW8u6/EweDGOdB0U=" group-title="ESPORTES",SPORT TV 1 4K PT
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/43624.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 1 + 4K PT" tvg-logo="https://thumbs.web.sapo.io/?W=800&H=800&png=1&delay_optim=1&png=1&epic=ZTZiSedBAS1u31V3T0PoSHIu0l1luodHvaB0viN2KYWwT3dCE6wK/7dKuwKYEsvN/o9wyZJWHuMhokOt4Nks96QBRsa1yiXgW8u6/EweDGOdB0U=" group-title="ESPORTES",SPORT TV 1 + 4K PT
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/43625.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 2 4K PT" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112010/sporttv.png?itok=pMp1-KPe" group-title="ESPORTES",SPORT TV 2 4K PT
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/43626.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 3 4K PT" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112010/sporttv.png?itok=pMp1-KPe" group-title="ESPORTES",SPORT TV 3 4K PT
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/43627.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 4 4K PT" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112010/sporttv.png?itok=pMp1-KPe" group-title="ESPORTES",SPORT TV 4 4K PT
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/43628.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 5 4K PT" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112010/sporttv.png?itok=pMp1-KPe" group-title="ESPORTES",SPORT TV 5 4K PT
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/43629.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KOMBATE 4K PT" tvg-logo="https://www.bce.lu/wp-content/uploads/2016/06/LOGO-Kombat_Sport.png" group-title="ESPORTES",KOMBATE 4K PT
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/43630.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1 4K PT" tvg-logo="https://i.pinimg.com/236x/6c/00/3e/6c003e58864b9e46389a4c25e09838f6.jpg" group-title="ESPORTES",EUROSPORT 1 4K PT
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/43631.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2 4K PT" tvg-logo="https://1.bp.blogspot.com/-x2K22z3gnH4/V_DtGEWhSYI/AAAAAAAACgE/Gebxp6soJaQZ-lpqhKxx_QOdGlk-VakPwCLcB/s1600/fhuxmcp92wg1w4y9pd2v4zjz3xs1vmjm.jpg" group-title="ESPORTES",EUROSPORT 2 4K PT
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/43632.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 1 4K PT" tvg-logo="data:image/png;base64,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" group-title="ESPORTES",ELEVEN SPORTS 1 4K PT
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/43633.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 2 4K PT" tvg-logo="data:image/png;base64,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" group-title="ESPORTES",ELEVEN SPORTS 2 4K PT
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/43634.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 1 HD" tvg-logo="" group-title="ESPORTES",COPA DO NORDESTE 1 HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44299.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 2 HD" tvg-logo="" group-title="ESPORTES",COPA DO NORDESTE 2 HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44300.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CARIOCA 1" tvg-logo="https://www.ogol.com.br/img/logos/competicoes/893_imgbank_rj1_20180312095157.png" group-title="ESPORTES",CAMPEONATO CARIOCA 1
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44365.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CARIOCA 2" tvg-logo="https://www.ogol.com.br/img/logos/competicoes/893_imgbank_rj1_20180312095157.png" group-title="ESPORTES",CAMPEONATO CARIOCA 2
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44366.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 BRASIL HD" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71njwkZLLfL._SY355_.png" group-title="DAZN",DAZN 1 BRASIL HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/36297.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 EUR HD H265" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71njwkZLLfL._SY355_.png" group-title="DAZN",DAZN 1 EUR HD H265
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/33310.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 LATINO (Solo Eventos)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRktYOPwnF17bdYpPimp8fxlOPtRtBEbR3TsnTmkAllLwj8mkKw" group-title="DAZN",DAZN 1 LATINO (Solo Eventos)
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/40840.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 BRASIL HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRktYOPwnF17bdYpPimp8fxlOPtRtBEbR3TsnTmkAllLwj8mkKw" group-title="DAZN",DAZN 2 BRASIL HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/36296.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 EUR HD H265" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRktYOPwnF17bdYpPimp8fxlOPtRtBEbR3TsnTmkAllLwj8mkKw" group-title="DAZN",DAZN 2 EUR HD H265
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/33311.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 LATINO (Solo Eventos)" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71njwkZLLfL._SY355_.png" group-title="DAZN",DAZN 2 LATINO (Solo Eventos)
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/40841.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 3 BRASIL HD" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71njwkZLLfL._SY355_.png" group-title="DAZN",DAZN 3 BRASIL HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/41071.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DAZN BAR 1 HD H265" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71njwkZLLfL._SY355_.png" group-title="DAZN",DAZN BAR 1 HD H265
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/33313.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DAZN BAR 2 HD H265" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRktYOPwnF17bdYpPimp8fxlOPtRtBEbR3TsnTmkAllLwj8mkKw" group-title="DAZN",DAZN BAR 2 HD H265
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/33314.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DAZN BRASIL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRktYOPwnF17bdYpPimp8fxlOPtRtBEbR3TsnTmkAllLwj8mkKw" group-title="DAZN",DAZN BRASIL
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/36298.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DAZN BRASIL 4K" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71njwkZLLfL._SY355_.png" group-title="DAZN",DAZN BRASIL 4K
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/36295.m3u8
+#EXTINF:-1 tvg-id="babytv.br" tvg-name="BABY TV UHD" tvg-logo="http://toptv2.com:25461/logos/babytv.png" group-title="INFANTIS",BABY TV UHD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/22367.m3u8
+#EXTINF:-1 tvg-id="boomerang.br" tvg-name="BOOMERANG UHD" tvg-logo="http://toptv2.com:25461/logos/Boomerang_UHD.png" group-title="INFANTIS",BOOMERANG UHD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13753.m3u8
+#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="CARTOON NETWORK 4K" tvg-logo="http://toptv2.com:25461/logos/cartoon-network-.png" group-title="INFANTIS",CARTOON NETWORK 4K
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13673.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CTC LOVE HD" tvg-logo="http://toptv2.com:25461/logos/nickelodeon.png" group-title="INFANTIS",CTC LOVE HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/41311.m3u8
+#EXTINF:-1 tvg-id="discoverykids.br" tvg-name="DISCOVERY KIDS UHD" tvg-logo="http://toptv2.com:25461/logos/Discovery_kids.png" group-title="INFANTIS",DISCOVERY KIDS UHD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13678.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY" tvg-logo="http://toptv2.com:25461/logos/Disney.png" group-title="INFANTIS",DISNEY
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13782.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL UHD" tvg-logo="http://toptv2.com:25461/logos/Disney_Channel.png" group-title="INFANTIS",DISNEY CHANNEL UHD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13682.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY JUNIOR UHD" tvg-logo="http://toptv2.com:25461/logos/disney-junior.png" group-title="INFANTIS",DISNEY JUNIOR UHD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13754.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY XD UHD" tvg-logo="http://toptv2.com:25461/logos/Disney_XD.png" group-title="INFANTIS",DISNEY XD UHD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/27257.m3u8
+#EXTINF:-1 tvg-id="gloob.br" tvg-name="GLOOB UHD" tvg-logo="http://toptv2.com:25461/logos/Gloob_HD.png" group-title="INFANTIS",GLOOB UHD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13701.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOOBINHO UHD" tvg-logo="http://toptv2.com:25461/logos/gloobinho.png" group-title="INFANTIS",GLOOBINHO UHD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/27312.m3u8
+#EXTINF:-1 tvg-id="natgeokids.br" tvg-name="NATGEO KIDS HD" tvg-logo="http://toptv2.com:25461/logos/Natgeo_Kids.png" group-title="INFANTIS",NATGEO KIDS HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13752.m3u8
+#EXTINF:-1 tvg-id="nickjr.br" tvg-name="NICK JR HD" tvg-logo="http://toptv2.com:25461/logos/nick-jr.png" group-title="INFANTIS",NICK JR HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13720.m3u8
+#EXTINF:-1 tvg-id="nickelodeon.br" tvg-name="NICKELODEON HD" tvg-logo="http://toptv2.com:25461/logos/nickelodeon.png" group-title="INFANTIS",NICKELODEON HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13897.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PANDA 4K" tvg-logo="http://toptv2.com:25461/logos/nickelodeon.png" group-title="INFANTIS",PANDA 4K
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/41370.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TOM E JERRY 24/7D HD" tvg-logo="http://toptv2.com:25461/logos/nickelodeon.png" group-title="INFANTIS",TOM E JERRY 24/7D HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/41074.m3u8
+#EXTINF:-1 tvg-id="tooncast.br" tvg-name="TOONCAST UHD" tvg-logo="http://toptv2.com:25461/logos/tooncast.png" group-title="INFANTIS",TOONCAST UHD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13852.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV RA TIM BUM HD" tvg-logo="http://toptv2.com:25461/logos/tvr-atim-bbum.png" group-title="INFANTIS",TV RA TIM BUM HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13904.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ZOOMOO HD" tvg-logo="http://toptv2.com:25461/logos/ZooMoo.png" group-title="INFANTIS",ZOOMOO HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/14130.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 1 HD" tvg-logo="" group-title="PAY PER VIEW PPV",CINE SKY 1 HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44354.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 2 HD" tvg-logo="" group-title="PAY PER VIEW PPV",CINE SKY 2 HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44355.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 3 HD" tvg-logo="" group-title="PAY PER VIEW PPV",CINE SKY 3 HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44356.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 4 HD" tvg-logo="" group-title="PAY PER VIEW PPV",CINE SKY 4 HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44357.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 5 HD" tvg-logo="" group-title="PAY PER VIEW PPV",CINE SKY 5 HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44358.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 6 HD" tvg-logo="" group-title="PAY PER VIEW PPV",CINE SKY 6 HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44359.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 7 HD" tvg-logo="" group-title="PAY PER VIEW PPV",CINE SKY 7 HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44360.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 8 HD" tvg-logo="" group-title="PAY PER VIEW PPV",CINE SKY 8 HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44361.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 9 HD" tvg-logo="" group-title="PAY PER VIEW PPV",CINE SKY 9 HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44362.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 10 HD" tvg-logo="" group-title="PAY PER VIEW PPV",CINE SKY 10 HD
+http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44363.m3u8
