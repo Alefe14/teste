@@ -1,26 +1,33 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="http://a5.vc/JHX" group-title="Canais | Variedades",A&E FHD
-https://newedge.eu-central-1.edge.mycdn.live/live/bbb24hras/bbb24hras_2000/index.m3u8
+https://newedge.eu-central-1.edge.mycdn.live/live/bbb24hras/bbb24hras_2000/bbb24hras_2000-1619617474583.ts
 #EXTINF:-1 tvg-logo="http://a5.vc/JHX" group-title="Canais | Variedades",A&E FHD
-https://newedge.eu-central-1.edge.mycdn.live/live/bbb24hras/bbb24hras_1000/index.m3u8
+https://newedge.eu-central-1.edge.mycdn.live/live/bbb24hras/bbb24hras_2000/bbb24hras_2000-1619617480451.ts
 #EXTINF:-1 tvg-logo="http://a5.vc/JHX" group-title="Canais | Variedades",A&E FHD
-https://newedge.eu-central-1.edge.mycdn.live/live/bbb24hras/bbb24hras_500/index.m3u8
+https://newedge.eu-central-1.edge.mycdn.live/live/bbb24hras/bbb24hras_2000/bbb24hras_2000-1619617485668.ts
 #EXTINF:-1 tvg-logo="http://a5.vc/JHX" group-title="Canais | Variedades",A&E FHD
-https://newedge.eu-central-1.edge.mycdn.live/live/bbb24hras/bbb24hras_350/index.m3u8
+https://newedge.eu-central-1.edge.mycdn.live/live/bbb24hras/bbb24hras_2000/bbb24hras_2000-1619617490761.ts
 #EXTINF:-1 tvg-logo="http://a5.vc/JHX" group-title="Canais | Variedades",A&E FHD
-https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_2000/index.m3u8
+https://newedge.eu-central-1.edge.mycdn.live/live/bbb24hras/bbb24hras_2000/bbb24hras_2000-1619617496291.ts
 #EXTINF:-1 tvg-logo="http://a5.vc/JHX" group-title="Canais | Variedades",A&E FHD
-https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_1000/index.m3u8
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_1000/vintequatrohrs2_1000-1619617634650.ts
 #EXTINF:-1 tvg-logo="http://a5.vc/JHX" group-title="Canais | Variedades",A&E FHD
-https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_500/index.m3u8
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_1000/vintequatrohrs2_1000-1619617639751.ts
 #EXTINF:-1 tvg-logo="http://a5.vc/JHX" group-title="Canais | Variedades",A&E FHD
-https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_350/index.m3u8
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_1000/vintequatrohrs2_1000-1619617644559.ts
 #EXTINF:-1 tvg-logo="http://a5.vc/JHX" group-title="Canais | Variedades",A&E FHD
-https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/esportes10_2000/index.m3u8
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_1000/vintequatrohrs2_1000-1619617649627.ts
 #EXTINF:-1 tvg-logo="http://a5.vc/JHX" group-title="Canais | Variedades",A&E FHD
-https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/esportes10_1000/index.m3u8
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_1000/vintequatrohrs2_1000-1619617654645.ts
 #EXTINF:-1 tvg-logo="http://a5.vc/JHX" group-title="Canais | Variedades",A&E FHD
-https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/esportes10_500/index.m3u8
+https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/esportes10_1000/esportes10_1000-1619617739359.ts
 #EXTINF:-1 tvg-logo="http://a5.vc/JHX" group-title="Canais | Variedades",A&E FHD
-https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/esportes10_350/index.m3u8
+https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/esportes10_1000/esportes10_1000-1619617744383.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/JHX" group-title="Canais | Variedades",A&E FHD
+https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/esportes10_1000/esportes10_1000-1619617749395.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/JHX" group-title="Canais | Variedades",A&E FHD
+https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/esportes10_1000/esportes10_1000-1619617754375.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/JHX" group-title="Canais | Variedades",A&E FHD
+https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/esportes10_1000/esportes10_1000-1619617759406.ts
+
