@@ -1,33 +1,1277 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://a5.vc/JHX" group-title="Canais | Variedades",A&E FHD
-https://newedge.eu-central-1.edge.mycdn.live/live/bbb24hras/bbb24hras_2000/bbb24hras_2000-1619617474583.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/JHX" group-title="Canais | Variedades",A&E FHD
-https://newedge.eu-central-1.edge.mycdn.live/live/bbb24hras/bbb24hras_2000/bbb24hras_2000-1619617480451.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/JHX" group-title="Canais | Variedades",A&E FHD
-https://newedge.eu-central-1.edge.mycdn.live/live/bbb24hras/bbb24hras_2000/bbb24hras_2000-1619617485668.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/JHX" group-title="Canais | Variedades",A&E FHD
-https://newedge.eu-central-1.edge.mycdn.live/live/bbb24hras/bbb24hras_2000/bbb24hras_2000-1619617490761.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/JHX" group-title="Canais | Variedades",A&E FHD
-https://newedge.eu-central-1.edge.mycdn.live/live/bbb24hras/bbb24hras_2000/bbb24hras_2000-1619617496291.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/JHX" group-title="Canais | Variedades",A&E FHD
-https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_1000/vintequatrohrs2_1000-1619617634650.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/JHX" group-title="Canais | Variedades",A&E FHD
-https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_1000/vintequatrohrs2_1000-1619617639751.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/JHX" group-title="Canais | Variedades",A&E FHD
-https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_1000/vintequatrohrs2_1000-1619617644559.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/JHX" group-title="Canais | Variedades",A&E FHD
-https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_1000/vintequatrohrs2_1000-1619617649627.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/JHX" group-title="Canais | Variedades",A&E FHD
-https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_1000/vintequatrohrs2_1000-1619617654645.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/JHX" group-title="Canais | Variedades",A&E FHD
-https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/esportes10_1000/esportes10_1000-1619617739359.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/JHX" group-title="Canais | Variedades",A&E FHD
-https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/esportes10_1000/esportes10_1000-1619617744383.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/JHX" group-title="Canais | Variedades",A&E FHD
-https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/esportes10_1000/esportes10_1000-1619617749395.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/JHX" group-title="Canais | Variedades",A&E FHD
-https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/esportes10_1000/esportes10_1000-1619617754375.ts
-#EXTINF:-1 tvg-logo="http://a5.vc/JHX" group-title="Canais | Variedades",A&E FHD
-https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/esportes10_1000/esportes10_1000-1619617759406.ts
+#EXTINF:-1,AR ||  BEIN SPORTS 1 HD
+http://chronostv.com:80/cliente3038/cliente3038gg/73717
+#EXTINF:-1,IT-VIP: RAI SPORT 1
+http://chronostv.com:80/cliente3038/cliente3038gg/75551
+#EXTINF:-1,IT-VIP: SKY SPORT NBA FHD
+http://chronostv.com:80/cliente3038/cliente3038gg/75497
+#EXTINF:-1,NBA 01 | HAWKS @ CELTICS 7PM
+http://chronostv.com:80/cliente3038/cliente3038gg/75266
+#EXTINF:-1,NBA 02 | HEAT @ MAGIC 7PM
+http://chronostv.com:80/cliente3038/cliente3038gg/75267
+#EXTINF:-1,NBA 03 | TRAILBLAZERS @ WIZARDS 7PM
+http://chronostv.com:80/cliente3038/cliente3038gg/75268
+#EXTINF:-1,NBA 04 | 76ERS @ ROCKETS 8PM
+http://chronostv.com:80/cliente3038/cliente3038gg/75269
+#EXTINF:-1,NBA 05 | KNICKS @ SUNS 9PM
+http://chronostv.com:80/cliente3038/cliente3038gg/75270
+#EXTINF:-1,NBA 06 | PELICANS @ LAKERS 10:30PM
+http://chronostv.com:80/cliente3038/cliente3038gg/75271
+#EXTINF:-1,NBA 07 | THUNDER @ SPURS 8:30PM
+http://chronostv.com:80/cliente3038/cliente3038gg/75272
+#EXTINF:-1,NBA 08 | GRIZZLIES @ KINGS 10PM
+http://chronostv.com:80/cliente3038/cliente3038gg/75273
+#EXTINF:-1,NBA 09 | PISTONS @ CLIPPERS 10:30PM
+http://chronostv.com:80/cliente3038/cliente3038gg/75274
+#EXTINF:-1,NBA 10 |  PISTONS @ SPURS 8:30PM
+http://chronostv.com:80/cliente3038/cliente3038gg/75275
+#EXTINF:-1,NBA 11 | TIMBERWOLVES AT WARRIORS (12.23-10:30PM ET)
+http://chronostv.com:80/cliente3038/cliente3038gg/75276
+#EXTINF:-1,NBA 12 | BULLS AT TRAIL BLAZERS (11.29-10PM ET)
+http://chronostv.com:80/cliente3038/cliente3038gg/75277
+#EXTINF:-1,NBA 13 | LAKERS @ TRAILBLAZERS 10PM
+http://chronostv.com:80/cliente3038/cliente3038gg/75278
+#EXTINF:-1,NBA 14 | BULLS AT WARRIORS (11.27-10:30PM ET)
+http://chronostv.com:80/cliente3038/cliente3038gg/75279
+#EXTINF:-1,NBA LP 1: TIMBERWOLVES AT ROCKETS (1.11-5PM ET)
+http://chronostv.com:80/cliente3038/cliente3038gg/75280
+#EXTINF:-1,NBA LP 2: PELICANS AT CELTICS (1.11-7PM ET)
+http://chronostv.com:80/cliente3038/cliente3038gg/75281
+#EXTINF:-1,NBA LP 4: LAKERS AT THUNDER (1.11-8PM ET)
+http://chronostv.com:80/cliente3038/cliente3038gg/75283
+#EXTINF:-1,NBA LP 5: 76ERS AT MAVERICKS (1.11-8:30PM ET)
+http://chronostv.com:80/cliente3038/cliente3038gg/75284
+#EXTINF:-1,PT: SPORT TV NBA FHD
+http://chronostv.com:80/cliente3038/cliente3038gg/73015
+#EXTINF:-1,[CA] NBA TV HD
+http://chronostv.com:80/cliente3038/cliente3038gg/73868
+#EXTINF:-1,A&E FHD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/68834
+#EXTINF:-1,ANIMAL PLANET FHD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/68788
+#EXTINF:-1,ARTE 1 FHD1
+http://chronostv.com:80/cliente3038/cliente3038gg/69147
+#EXTINF:-1,ARTE 1 FHD³
+http://chronostv.com:80/cliente3038/cliente3038gg/72313
+#EXTINF:-1,AXN FHD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/68838
+#EXTINF:-1,AXN FHD³
+http://chronostv.com:80/cliente3038/cliente3038gg/72274
+#EXTINF:-1,BABY FHD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/69030
+#EXTINF:-1,BAND FHD³
+http://chronostv.com:80/cliente3038/cliente3038gg/72275
+#EXTINF:-1,BAND NEWS FHD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/69070
+#EXTINF:-1,BAND SPORTS FHD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/69108
+#EXTINF:-1,BIS FHD³
+http://chronostv.com:80/cliente3038/cliente3038gg/72359
+#EXTINF:-1,BOOMERANG FHD³
+http://chronostv.com:80/cliente3038/cliente3038gg/72314
+#EXTINF:-1,BOOMERANG FHD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/69033
+#EXTINF:-1,CNN BRASIL FHD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/75841
+#EXTINF:-1,CNN ESPANHOL FHD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/69073
+#EXTINF:-1,CNN INTERNACIONAL FHD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/69076
+#EXTINF:-1,COMBATE FHD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/69112
+#EXTINF:-1,COMBATE FHD²
+http://chronostv.com:80/cliente3038/cliente3038gg/72279
+#EXTINF:-1,DISCOVERY CHANNEL FHD²
+http://chronostv.com:80/cliente3038/cliente3038gg/72347
+#EXTINF:-1,DISCOVERY H&H FHD²
+http://chronostv.com:80/cliente3038/cliente3038gg/72366
+#EXTINF:-1,DISCOVERY KIDS FHD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/69039
+#EXTINF:-1,DISCOVERY SCIENCE FHD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/68806
+#EXTINF:-1,DISCOVERY SCIENCE FHD²
+http://chronostv.com:80/cliente3038/cliente3038gg/72353
+#EXTINF:-1,DISCOVERY THEATER FHD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/68809
+#EXTINF:-1,DISCOVERY TURBO FHD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/68812
+#EXTINF:-1,DISCOVERY TURBO FHD²
+http://chronostv.com:80/cliente3038/cliente3038gg/72280
+#EXTINF:-1,DISCOVERY WORLD FHD²
+http://chronostv.com:80/cliente3038/cliente3038gg/72319
+#EXTINF:-1,DISNEY CHANNEL FHD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/69042
+#EXTINF:-1,DISNEY CHANNEL FHD³
+http://chronostv.com:80/cliente3038/cliente3038gg/72320
+#EXTINF:-1,E! FHD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/69167
+#EXTINF:-1,ESPN 2 FHD³
+http://chronostv.com:80/cliente3038/cliente3038gg/72281
+#EXTINF:-1,EUROCHANNEL FHD³
+http://chronostv.com:80/cliente3038/cliente3038gg/72378
+#EXTINF:-1,FOX FHD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/68844
+#EXTINF:-1,FOX NEWS FHD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/71278
+#EXTINF:-1,FOX PREMIUM 1 FHD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/68849
+#EXTINF:-1,FOX PREMIUM 1 FHD²
+http://chronostv.com:80/cliente3038/cliente3038gg/72284
+#EXTINF:-1,FOX PREMIUM 2 FHD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/68851
+#EXTINF:-1,FOX PREMIUM 2 FHD²
+http://chronostv.com:80/cliente3038/cliente3038gg/72285
+#EXTINF:-1,FOX SPORTS 2 FHD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/69127
+#EXTINF:-1,FOX SPORTS FHD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/69130
+#EXTINF:-1,FOX SPORTS FHD²
+http://chronostv.com:80/cliente3038/cliente3038gg/72286
+#EXTINF:-1,FX FHD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/68854
+#EXTINF:-1,FX FHD²
+http://chronostv.com:80/cliente3038/cliente3038gg/72324
+#EXTINF:-1,GLOBO CENTRO AMERICA FHD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/71180
+#EXTINF:-1,GLOBO EPTV CAMPINAS FHD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/71181
+#EXTINF:-1,GLOBO EPTV SUL DE MINAS FHD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/71212
+#EXTINF:-1,GLOBO INTER TV GRANDE MINAS FHD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/71210
+#EXTINF:-1,GLOBO MINAS FHD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/71182
+#EXTINF:-1,GLOBO NEWS FHD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/69080
+#EXTINF:-1,GLOBO NEWS FHD²
+http://chronostv.com:80/cliente3038/cliente3038gg/72398
+#EXTINF:-1,GLOBO NORDESTE FHD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/71183
+#EXTINF:-1,GLOBO NORDESTE FHD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/72395
+#EXTINF:-1,GLOBO RJ FHD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/71216
+#EXTINF:-1,GLOBO RJ HD²
+http://chronostv.com:80/cliente3038/cliente3038gg/72402
+#EXTINF:-1,GLOBO RPC PARANAENSE FHD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/71185
+#EXTINF:-1,GLOBO SP FHD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/71154
+#EXTINF:-1,GLOBO TV ANHANGUERA FHD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/71186
+#EXTINF:-1,GLOBO TV BAHIA FHD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/71187
+#EXTINF:-1,GLOBO TV BELEM FHD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/71192
+#EXTINF:-1,GLOBO TV BRASILIA FHD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/71215
+#EXTINF:-1,GLOBO TV DIARIO FHD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/72416
+#EXTINF:-1,GLOBO TV MIRANTE MARANHÃO FHD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/72413
+#EXTINF:-1,GLOBO TV MORENA FHD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/71189
+#EXTINF:-1,GLOBO TV VERDES MARES FHD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/71190
+#EXTINF:-1,GLOBO VERDES FHD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/72403
+#EXTINF:-1,GLOOB FHD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/69051
+#EXTINF:-1,GLOOB FHD³
+http://chronostv.com:80/cliente3038/cliente3038gg/72325
+#EXTINF:-1,HBO 2 FHD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/69015
+#EXTINF:-1,HBO 2 FHD²
+http://chronostv.com:80/cliente3038/cliente3038gg/72289
+#EXTINF:-1,HBO FAMILY FHD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/69018
+#EXTINF:-1,HBO FHD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/69021
+#EXTINF:-1,HBO FHD²
+http://chronostv.com:80/cliente3038/cliente3038gg/72290
+#EXTINF:-1,HBO MUNDI FHD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/72388
+#EXTINF:-1,HBO PLUS FHD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/69023
+#EXTINF:-1,HBO SIGNATURE FHD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/69027
+#EXTINF:-1,MAX FHD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/68857
+#EXTINF:-1,MAX PRIME FHD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/68860
+#EXTINF:-1,MAX PRIME FHD³
+http://chronostv.com:80/cliente3038/cliente3038gg/72292
+#EXTINF:-1,MAX UP FHD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/68864
+#EXTINF:-1,MAX UP FHD³
+http://chronostv.com:80/cliente3038/cliente3038gg/72358
+#EXTINF:-1,MULTISHOW FHD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/69193
+#EXTINF:-1,NICKELODEON FHD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/69060
+#EXTINF:-1,OFF FHD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/69202
+#EXTINF:-1,PARAMOUNT CHANNEL FHD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/69205
+#EXTINF:-1,PLAY TV FHD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/69208
+#EXTINF:-1,PREMIERE 2 FHD²
+http://chronostv.com:80/cliente3038/cliente3038gg/72307
+#EXTINF:-1,RED BULL TV  FHD³
+http://chronostv.com:80/cliente3038/cliente3038gg/72336
+#EXTINF:-1,REDE GENISIS FHD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/71288
+#EXTINF:-1,REDE GOSPEL FHD³
+http://chronostv.com:80/cliente3038/cliente3038gg/72370
+#EXTINF:-1,REDE SUPER FHD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/71290
+#EXTINF:-1,SBT SP FHD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/72337
+#EXTINF:-1,SHOPTIME FHD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/71296
+#EXTINF:-1,SMITHSONIAN FHD³
+http://chronostv.com:80/cliente3038/cliente3038gg/72371
+#EXTINF:-1,SONY FHD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/68870
+#EXTINF:-1,SPACE FHD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/68873
+#EXTINF:-1,SPORTV 2 FHD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/69138
+#EXTINF:-1,SPORTV 3 FHD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/69141
+#EXTINF:-1,SYFY FHD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/68879
+#EXTINF:-1,SYFY FHD³
+http://chronostv.com:80/cliente3038/cliente3038gg/72340
+#EXTINF:-1,TELECINE ACTION FHD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/68709
+#EXTINF:-1,TELECINE FUN FHD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/68715
+#EXTINF:-1,TELECINE TOUCH FHD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/68724
+#EXTINF:-1,TCM FHD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/68885
+#EXTINF:-1,TELECINE ACTION FHD²
+http://chronostv.com:80/cliente3038/cliente3038gg/72302
+#EXTINF:-1,TELECINE FUN FHD²
+http://chronostv.com:80/cliente3038/cliente3038gg/72301
+#EXTINF:-1,TELECINE PIPOCA  FHD²
+http://chronostv.com:80/cliente3038/cliente3038gg/72300
+#EXTINF:-1,TELECINE PREMIUM FHD²
+http://chronostv.com:80/cliente3038/cliente3038gg/72299
+#EXTINF:-1,TOONCAST FHD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/69066
+#EXTINF:-1,TV DIARIO FHD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/71282
+#EXTINF:-1,TV GAZETA ALAGOAS FHD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/71292
+#EXTINF:-1,TV GAZETA FHD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/71294
+#EXTINF:-1,TV GAZETA SP FHD³
+http://chronostv.com:80/cliente3038/cliente3038gg/72372
+#EXTINF:-1,GLOBO TV SANTA CRUZ FHD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/71293
+#EXTINF:-1,TV SERGIPE FHD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/71295
+#EXTINF:-1,UNIVERSAL CHANNEL FHD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/68898
+#EXTINF:-1,VH1 FHD³
+http://chronostv.com:80/cliente3038/cliente3038gg/72344
+#EXTINF:-1,VH1 FHD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/69227
+#EXTINF:-1,VIVA FHD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/69230
+#EXTINF:-1,VIVA FHD³
+http://chronostv.com:80/cliente3038/cliente3038gg/72356
+#EXTINF:-1,WARNER CHANNEL FHD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/68901
+#EXTINF:-1,WARNER CHANNEL FHD³
+http://chronostv.com:80/cliente3038/cliente3038gg/72296
+#EXTINF:-1,ESPN 2 FHD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/69115
+#EXTINF:-1,ESPN BRASIL FHD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/69118
+#EXTINF:-1,RECORD MARINGÁ FHD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/97729
+#EXTINF:-1,REDE MASSA FHD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/97730
+#EXTINF:-1,AGRO CANAL FHD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/97874
+#EXTINF:-1,CANAL SAÚDE SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/97876
+#EXTINF:-1,CANÇÃO NOVA FHD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/97877
+#EXTINF:-1,GLOBO RPC MARINGÁ FHD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/97928
+#EXTINF:-1,CANAL DO BOI FHD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/72489
+#EXTINF:-1,TV TRIBUNA FHD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/97926
+#EXTINF:-1,RECORD MARINGÁ FHD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/100079
+#EXTINF:-1,GLOBO RJ FHD²
+http://chronostv.com:80/cliente3038/cliente3038gg/100251
+#EXTINF:-1,ANIMAL PLANET 4K²
+http://chronostv.com:80/cliente3038/cliente3038gg/100512
+#EXTINF:-1,SPORTV 4K²
+http://chronostv.com:80/cliente3038/cliente3038gg/100515
+#EXTINF:-1,HBO 4K²
+http://chronostv.com:80/cliente3038/cliente3038gg/100519
+#EXTINF:-1,TELECINE ACTION 4K¹
+http://chronostv.com:80/cliente3038/cliente3038gg/100520
+#EXTINF:-1,TELECINE PREMIUM 4K²
+http://chronostv.com:80/cliente3038/cliente3038gg/100521
+#EXTINF:-1,FOX 4K¹
+http://chronostv.com:80/cliente3038/cliente3038gg/100523
+#EXTINF:-1,MEGAPIX 4K²
+http://chronostv.com:80/cliente3038/cliente3038gg/100524
+#EXTINF:-1,RECORD 4K²
+http://chronostv.com:80/cliente3038/cliente3038gg/100525
+#EXTINF:-1,BAND 4K¹
+http://chronostv.com:80/cliente3038/cliente3038gg/100526
+#EXTINF:-1,ESPN BRASIL 4K¹
+http://chronostv.com:80/cliente3038/cliente3038gg/100529
+#EXTINF:-1,H2 4K¹
+http://chronostv.com:80/cliente3038/cliente3038gg/100530
+#EXTINF:-1,NATGEO WILD 4K¹
+http://chronostv.com:80/cliente3038/cliente3038gg/100532
+#EXTINF:-1,CINEMAX 4K¹
+http://chronostv.com:80/cliente3038/cliente3038gg/100539
+#EXTINF:-1,SPACE 4K¹
+http://chronostv.com:80/cliente3038/cliente3038gg/100540
+#EXTINF:-1,HBO XTREME FHD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/101009
+#EXTINF:-1,A&E FHD²
+http://chronostv.com:80/cliente3038/cliente3038gg/106787
+#EXTINF:-1,ESPN EXTRA FHD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/109317
+#EXTINF:-1,FOOD NETWORK FHD²
+http://chronostv.com:80/cliente3038/cliente3038gg/109320
+#EXTINF:-1,ANIMAL PLANET FHD²
+http://chronostv.com:80/cliente3038/cliente3038gg/109321
+#EXTINF:-1,COMEDY CENTRAL FHD²
+http://chronostv.com:80/cliente3038/cliente3038gg/109323
+#EXTINF:-1,MEGAPIX FHD²
+http://chronostv.com:80/cliente3038/cliente3038gg/109325
+#EXTINF:-1,PREMIERE 3 FHD²
+http://chronostv.com:80/cliente3038/cliente3038gg/109326
+#EXTINF:-1,SPACE FHD²
+http://chronostv.com:80/cliente3038/cliente3038gg/109327
+#EXTINF:-1,SPORTV 2 FHD²
+http://chronostv.com:80/cliente3038/cliente3038gg/109328
+#EXTINF:-1,TELECINE CULT FHD²
+http://chronostv.com:80/cliente3038/cliente3038gg/109329
+#EXTINF:-1,TELECINE PIPOCA FHD²
+http://chronostv.com:80/cliente3038/cliente3038gg/109330
+#EXTINF:-1,TELECINE TOUCH FHD²
+http://chronostv.com:80/cliente3038/cliente3038gg/109331
+#EXTINF:-1,TNT FHD²
+http://chronostv.com:80/cliente3038/cliente3038gg/109333
+#EXTINF:-1,AMC 4K²
+http://chronostv.com:80/cliente3038/cliente3038gg/109334
+#EXTINF:-1,AMC FHD²
+http://chronostv.com:80/cliente3038/cliente3038gg/109335
+#EXTINF:-1,CARTOON NETWORK FHD²
+http://chronostv.com:80/cliente3038/cliente3038gg/121858
+#EXTINF:-1,BABYTV HD²
+http://chronostv.com:80/cliente3038/cliente3038gg/126351
+#EXTINF:-1,GLOBO TV RECIFE FHD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/127068
+#EXTINF:-1,REDE BRASIL FHD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/127073
+#EXTINF:-1,MULTISHOW 4K²
+http://chronostv.com:80/cliente3038/cliente3038gg/131265
+#EXTINF:-1,TNT SERIES 4K²
+http://chronostv.com:80/cliente3038/cliente3038gg/131267
+#EXTINF:-1, IGREJA UNIVERSAL RD SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/122
+#EXTINF:-1, TV DIÁRIO DO SERTÃO SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/550
+#EXTINF:-1,A&E HD²
+http://chronostv.com:80/cliente3038/cliente3038gg/72869
+#EXTINF:-1,A&E HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/68835
+#EXTINF:-1,A&E SD²
+http://chronostv.com:80/cliente3038/cliente3038gg/72439
+#EXTINF:-1,A&E SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/68836
+#EXTINF:-1,AMC HD²
+http://chronostv.com:80/cliente3038/cliente3038gg/72627
+#EXTINF:-1,ANIMAL PLANET HD²
+http://chronostv.com:80/cliente3038/cliente3038gg/72644
+#EXTINF:-1,ANIMAL PLANET HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/68789
+#EXTINF:-1,ANIMAL PLANET SD²
+http://chronostv.com:80/cliente3038/cliente3038gg/72425
+#EXTINF:-1,ANIMAL PLANET SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/68790
+#EXTINF:-1,ARTE 1 SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/69149
+#EXTINF:-1,AXN HD²
+http://chronostv.com:80/cliente3038/cliente3038gg/72626
+#EXTINF:-1,AXN HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/68839
+#EXTINF:-1,AXN SD²
+http://chronostv.com:80/cliente3038/cliente3038gg/72440
+#EXTINF:-1,AXN SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/68840
+#EXTINF:-1,BABY HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/69031
+#EXTINF:-1,BABY TV SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/69032
+#EXTINF:-1,BAND HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/68729
+#EXTINF:-1,BAND NEWS HD²
+http://chronostv.com:80/cliente3038/cliente3038gg/72630
+#EXTINF:-1,BAND NEWS HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/69071
+#EXTINF:-1,BAND NEWS SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/69072
+#EXTINF:-1,BAND SPORTS HD²
+http://chronostv.com:80/cliente3038/cliente3038gg/72621
+#EXTINF:-1,BAND SPORTS HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/69109
+#EXTINF:-1,BIS HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/69151
+#EXTINF:-1,BIS SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/69152
+#EXTINF:-1,BOOMERANG HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/69034
+#EXTINF:-1,BOOMERANG SD²
+http://chronostv.com:80/cliente3038/cliente3038gg/72466
+#EXTINF:-1,BOOMERANG SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/69035
+#EXTINF:-1,CANAL  BRASIL SD²
+http://chronostv.com:80/cliente3038/cliente3038gg/72429
+#EXTINF:-1,CANAL BRASIL HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/69155
+#EXTINF:-1,CANAL BRASIL SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/69156
+#EXTINF:-1,CANAL WOOHOO SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/71283
+#EXTINF:-1,CANÇÃO NOVA SD*
+http://chronostv.com:80/cliente3038/cliente3038gg/29
+#EXTINF:-1,CARTOON NETWORK HD²
+http://chronostv.com:80/cliente3038/cliente3038gg/72633
+#EXTINF:-1,CHEF TV HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/69158
+#EXTINF:-1,CHEF TV SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/69159
+#EXTINF:-1,CINEMAX HD²
+http://chronostv.com:80/cliente3038/cliente3038gg/72634
+#EXTINF:-1,CINEMAX HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/68842
+#EXTINF:-1,CINEMAX SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/68843
+#EXTINF:-1,CNN ESPANHOL HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/69074
+#EXTINF:-1,CNN ESPANHOL SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/69075
+#EXTINF:-1,CNN INTERNACIONAL HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/69077
+#EXTINF:-1,CNN INTERNACIONAL SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/69078
+#EXTINF:-1,COMBATE HD²
+http://chronostv.com:80/cliente3038/cliente3038gg/72635
+#EXTINF:-1,COMBATE HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/69113
+#EXTINF:-1,COMEDY CENTRAL HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/69161
+#EXTINF:-1,COMEDY CENTRAL SD²
+http://chronostv.com:80/cliente3038/cliente3038gg/72428
+#EXTINF:-1,COMEDY CENTRAL SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/69162
+#EXTINF:-1,COPA LIBERTADORES FHD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/75669
+#EXTINF:-1,CURTA! HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/69164
+#EXTINF:-1,CURTA! SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/69165
+#EXTINF:-1,DAZN 3 (ESPECIAL)
+http://chronostv.com:80/cliente3038/cliente3038gg/75098
+#EXTINF:-1,DAZN 5 (ESPECIAL)
+http://chronostv.com:80/cliente3038/cliente3038gg/75100
+#EXTINF:-1,DAZN SPORT 2 HD
+http://chronostv.com:80/cliente3038/cliente3038gg/75562
+#EXTINF:-1,DAZN SPORT 3 HD
+http://chronostv.com:80/cliente3038/cliente3038gg/75561
+#EXTINF:-1,DAZN SPORT 4 HD
+http://chronostv.com:80/cliente3038/cliente3038gg/75560
+#EXTINF:-1,DAZN SPORT 5 HD
+http://chronostv.com:80/cliente3038/cliente3038gg/75559
+#EXTINF:-1,DE| DAZN 1 BAR
+http://chronostv.com:80/cliente3038/cliente3038gg/73652
+#EXTINF:-1,DISCOVERY CHANNEL HD²
+http://chronostv.com:80/cliente3038/cliente3038gg/72637
+#EXTINF:-1,DISCOVERY CHANNEL HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/68792
+#EXTINF:-1,DISCOVERY CHANNEL SD²
+http://chronostv.com:80/cliente3038/cliente3038gg/72450
+#EXTINF:-1,DISCOVERY CHANNEL SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/68793
+#EXTINF:-1,DISCOVERY H&H HD²
+http://chronostv.com:80/cliente3038/cliente3038gg/72638
+#EXTINF:-1,DISCOVERY H&H HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/68798
+#EXTINF:-1,DISCOVERY H&H SD²
+http://chronostv.com:80/cliente3038/cliente3038gg/72451
+#EXTINF:-1,DISCOVERY H&H SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/68799
+#EXTINF:-1,DISCOVERY ID HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/68801
+#EXTINF:-1,DISCOVERY TURBO HD²
+http://chronostv.com:80/cliente3038/cliente3038gg/72574
+#EXTINF:-1,DISCOVERY TURBO HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/68813
+#EXTINF:-1,DISCOVERY TURBO SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/68814
+#EXTINF:-1,DISCOVERY WORLD HD²
+http://chronostv.com:80/cliente3038/cliente3038gg/72641
+#EXTINF:-1,DISCOVERY WORLD HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/68816
+#EXTINF:-1,DISCOVERY WORLD SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/68817
+#EXTINF:-1,DISNEY CHANNEL HD²
+http://chronostv.com:80/cliente3038/cliente3038gg/72642
+#EXTINF:-1,DISNEY CHANNEL HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/69043
+#EXTINF:-1,DISNEY CHANNEL SD²
+http://chronostv.com:80/cliente3038/cliente3038gg/72468
+#EXTINF:-1,DISNEY CHANNEL SD²
+http://chronostv.com:80/cliente3038/cliente3038gg/72568
+#EXTINF:-1,DISNEY XD SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/69050
+#EXTINF:-1,DJING ELECTRONIC SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/36
+#EXTINF:-1,E! HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/69168
+#EXTINF:-1,E! SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/69169
+#EXTINF:-1,ESTÁDIO TNT 2 HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/71224
+#EXTINF:-1,ESTÁDIO TNT 2 SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/71225
+#EXTINF:-1,ESTÁDIO TNT 3 HD²
+http://chronostv.com:80/cliente3038/cliente3038gg/71226
+#EXTINF:-1,ESTÁDIO TNT SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/71227
+#EXTINF:-1,ESTÁDIO TNT 4 HD²
+http://chronostv.com:80/cliente3038/cliente3038gg/71228
+#EXTINF:-1,ESTÁDIO TNT 4 SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/71229
+#EXTINF:-1,ESTÁDIO TNT HD²
+http://chronostv.com:80/cliente3038/cliente3038gg/71230
+#EXTINF:-1,ESTÁDIO TNT HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/71222
+#EXTINF:-1,ESTÁDIO TNT SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/71223
+#EXTINF:-1,ESPERANZA TV HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/71305
+#EXTINF:-1,ESPN 2 SD²
+http://chronostv.com:80/cliente3038/cliente3038gg/72577
+#EXTINF:-1,ESPN 2 SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/69117
+#EXTINF:-1,ESPN BRASIL HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/69119
+#EXTINF:-1,ESPN BRASIL SD²
+http://chronostv.com:80/cliente3038/cliente3038gg/72469
+#EXTINF:-1,ESPN BRASIL SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/69120
+#EXTINF:-1,ESPN HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/69124
+#EXTINF:-1,ESPN SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/69125
+#EXTINF:-1,ESPORTE INTERATIVO HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/71218
+#EXTINF:-1,ESPORTE INTERATIVO HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/97927
+#EXTINF:-1,ESPORTE INTERATIVO SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/71221
+#EXTINF:-1,ESPORTE INTERATIVO²
+http://chronostv.com:80/cliente3038/cliente3038gg/71219
+#EXTINF:-1,ESPORTE ONLINE²
+http://chronostv.com:80/cliente3038/cliente3038gg/89246
+#EXTINF:-1,ESPORTE ONLINE¹
+http://chronostv.com:80/cliente3038/cliente3038gg/90553
+#EXTINF:-1,FASHIONTV HD²
+http://chronostv.com:80/cliente3038/cliente3038gg/72649
+#EXTINF:-1,FOOD NETWORK HD²
+http://chronostv.com:80/cliente3038/cliente3038gg/72657
+#EXTINF:-1,FOOD NETWORK HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/69174
+#EXTINF:-1,FOOD NETWORK SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/69175
+#EXTINF:-1,FOOD NETWORK SD²
+http://chronostv.com:80/cliente3038/cliente3038gg/72471
+#EXTINF:-1,FOX HD²
+http://chronostv.com:80/cliente3038/cliente3038gg/72668
+#EXTINF:-1,FOX LIFE HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/68847
+#EXTINF:-1,FOX LIFE SD²
+http://chronostv.com:80/cliente3038/cliente3038gg/72433
+#EXTINF:-1,FOX LIFE SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/68848
+#EXTINF:-1,FOX NEWS HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/71277
+#EXTINF:-1,FOX NEWS SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/71276
+#EXTINF:-1,FOX PREMIUM 1 HD²
+http://chronostv.com:80/cliente3038/cliente3038gg/68850
+#EXTINF:-1,FOX PREMIUM 1 HD²
+http://chronostv.com:80/cliente3038/cliente3038gg/72865
+#EXTINF:-1,FOX PREMIUM 1 HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/72669
+#EXTINF:-1,FOX PREMIUM 2 HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/68852
+#EXTINF:-1,FOX PREMIUM 2 HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/72580
+#EXTINF:-1,FOX SD²
+http://chronostv.com:80/cliente3038/cliente3038gg/72472
+#EXTINF:-1,FOX SPORTS HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/69126
+#EXTINF:-1,FOX SPORTS 2 HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/69128
+#EXTINF:-1,FOX SPORTS 2 SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/69129
+#EXTINF:-1,FOX SPORTS 2 SD²
+http://chronostv.com:80/cliente3038/cliente3038gg/72623
+#EXTINF:-1,FOX SPORTS HD²
+http://chronostv.com:80/cliente3038/cliente3038gg/72619
+#EXTINF:-1,FOX SPORTS SD²
+http://chronostv.com:80/cliente3038/cliente3038gg/72424
+#EXTINF:-1,FOX SPORTS SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/69131
+#EXTINF:-1,FX HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/68855
+#EXTINF:-1,GLOBO BAHIA SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/71156
+#EXTINF:-1,GLOBO BRASILIA HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/71176
+#EXTINF:-1,GLOBO CAMPINAS SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/71159
+#EXTINF:-1,GLOBO CENTRO AMERICA HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/71195
+#EXTINF:-1,GLOBO RPC CURITIBA SD²
+http://chronostv.com:80/cliente3038/cliente3038gg/72543
+#EXTINF:-1,GLOBO EPTV CAMPINAS  SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/71148
+#EXTINF:-1,GLOBO EPTV CAMPINAS HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/71198
+#EXTINF:-1,GLOBO EPTV SUL DE MINAS HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/71213
+#EXTINF:-1,GLOBO EPTV SUL DE MINAS SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/71217
+#EXTINF:-1,GLOBO TV BAHIA HD²
+http://chronostv.com:80/cliente3038/cliente3038gg/72401
+#EXTINF:-1,GLOBO INTER TV CABUGI SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/71161
+#EXTINF:-1,GLOBO INTER TV GRANDE MINAS HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/71211
+#EXTINF:-1,GLOBO LINERAL BELEM SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/71170
+#EXTINF:-1,GLOBO MANAUS SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/71164
+#EXTINF:-1,GLOBO MINAS  SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/71150
+#EXTINF:-1,GLOBO MINAS HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/71149
+#EXTINF:-1,GLOBO MINAS HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/72410
+#EXTINF:-1,GLOBO NORDESTE HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/71151
+#EXTINF:-1,GLOBO NORDESTE HD²
+http://chronostv.com:80/cliente3038/cliente3038gg/71162
+#EXTINF:-1,GLOBO NSC FLORIANOPOLIS HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/71201
+#EXTINF:-1,GLOBO NSC FLORIANOPOLIS SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/71204
+#EXTINF:-1,GLOBO RBS POA HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/71208
+#EXTINF:-1,GLOBO RBS POA SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/71209
+#EXTINF:-1,GLOBO RBS PORTO ALEGRE SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/71163
+#EXTINF:-1,GLOBO RJ HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/71178
+#EXTINF:-1,GLOBO RJ SD²
+http://chronostv.com:80/cliente3038/cliente3038gg/72525
+#EXTINF:-1,GLOBO RPC CURITIBA  SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/71165
+#EXTINF:-1,GLOBO RPC PARANAENSE HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/71199
+#EXTINF:-1,GLOBO RPC PARANAENSE SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/71205
+#EXTINF:-1,GLOBO RPC CURITIBA HD²
+http://chronostv.com:80/cliente3038/cliente3038gg/72399
+#EXTINF:-1,GLOBO SP HD²
+http://chronostv.com:80/cliente3038/cliente3038gg/72397
+#EXTINF:-1,GLOBO SP HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/71193
+#EXTINF:-1,GLOBO SP SD³
+http://chronostv.com:80/cliente3038/cliente3038gg/71166
+#EXTINF:-1,GLOBO SP SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/71203
+#EXTINF:-1,GLOBO TV BAHIA HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/71194
+#EXTINF:-1,GLOBO TV BAHIA SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/71169
+#EXTINF:-1,GLOBO TV BELEM HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/71191
+#EXTINF:-1,GLOBO TV BELEM SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/71206
+#EXTINF:-1,GLOBO TV MIRANTE HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/71202
+#EXTINF:-1,GLOBO TV MIRANTE SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/71157
+#EXTINF:-1,GLOBO TV TEM SOROCABA SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/71172
+#EXTINF:-1,GLOBO TV VANGUARDA SJC SD²
+http://chronostv.com:80/cliente3038/cliente3038gg/72538
+#EXTINF:-1,GLOBO TV VANGUARDA SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/71174
+#EXTINF:-1,GLOBO TV VERDADES MARES FORTALEZA SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/71175
+#EXTINF:-1,GLOBO TV VERDES MARES SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/72404
+#EXTINF:-1,GLOBO TV ANHANGUERA HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/71200
+#EXTINF:-1,GLOOB HD²
+http://chronostv.com:80/cliente3038/cliente3038gg/72618
+#EXTINF:-1,GLOOB HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/69052
+#EXTINF:-1,GLOOB SD²
+http://chronostv.com:80/cliente3038/cliente3038gg/72461
+#EXTINF:-1,GLOOB SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/69053
+#EXTINF:-1,GLOOBINHO HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/69055
+#EXTINF:-1,GLOOBINHO SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/69056
+#EXTINF:-1,GNT HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/69178
+#EXTINF:-1,GNT SD²
+http://chronostv.com:80/cliente3038/cliente3038gg/72453
+#EXTINF:-1,GNT SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/69179
+#EXTINF:-1,H2 HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/68820
+#EXTINF:-1,H2 SD
+http://chronostv.com:80/cliente3038/cliente3038gg/68821
+#EXTINF:-1,HBO  HD²
+http://chronostv.com:80/cliente3038/cliente3038gg/72581
+#EXTINF:-1,HBO 2 HD²
+http://chronostv.com:80/cliente3038/cliente3038gg/72582
+#EXTINF:-1,HBO 2 HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/69016
+#EXTINF:-1,HBO FAMILY SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/69020
+#EXTINF:-1,HBO HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/69022
+#EXTINF:-1,HBO PLUS HD²
+http://chronostv.com:80/cliente3038/cliente3038gg/72583
+#EXTINF:-1,HBO PLUS HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/69024
+#EXTINF:-1,HBO PLUS SD²
+http://chronostv.com:80/cliente3038/cliente3038gg/72455
+#EXTINF:-1,HBO SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/69026
+#EXTINF:-1,HBO SIGNATURE HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/69028
+#EXTINF:-1,HBO SIGNATURE SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/69029
+#EXTINF:-1,HGTV HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/68795
+#EXTINF:-1,HGTV SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/68796
+#EXTINF:-1,HISTORY SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/68830
+#EXTINF:-1,I SAT HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/69181
+#EXTINF:-1,I SAT SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/69182
+#EXTINF:-1,IDEAL TV
+http://chronostv.com:80/cliente3038/cliente3038gg/72473
+#EXTINF:-1,IGREJA MUNDIAL PD SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/121
+#EXTINF:-1,GLOBO INTER TV DOS VALES SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/71301
+#EXTINF:-1,GLOBO INTER TV GRANDE MINAS SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/71297
+#EXTINF:-1,IT: DAZN 6
+http://chronostv.com:80/cliente3038/cliente3038gg/75564
+#EXTINF:-1,LIFETIME HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/69185
+#EXTINF:-1,LIFETIME SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/69186
+#EXTINF:-1,M2O TV SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/123
+#EXTINF:-1,M2O TV SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/551
+#EXTINF:-1,MAIS GLOBOSAT HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/69188
+#EXTINF:-1,MAIS GLOBOSAT SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/69189
+#EXTINF:-1,MAX HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/68859
+#EXTINF:-1,MAX PRIME HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/68861
+#EXTINF:-1,MAX PRIME SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/68862
+#EXTINF:-1,MAX SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/68863
+#EXTINF:-1,MAX UP HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/68865
+#EXTINF:-1,MAX UP SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/68866
+#EXTINF:-1,MEGAPIX SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/68869
+#EXTINF:-1,MTV HD²
+http://chronostv.com:80/cliente3038/cliente3038gg/72588
+#EXTINF:-1,MTV HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/69191
+#EXTINF:-1,MTV SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/69192
+#EXTINF:-1,MULTISHOW HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/69194
+#EXTINF:-1,MULTISHOW SD²
+http://chronostv.com:80/cliente3038/cliente3038gg/72464
+#EXTINF:-1,MULTISHOW SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/69195
+#EXTINF:-1,MUSIC BOX BRASIL HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/69197
+#EXTINF:-1,MUSIC BOX BRASIL SD²
+http://chronostv.com:80/cliente3038/cliente3038gg/72561
+#EXTINF:-1,MUSICTOP SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/127
+#EXTINF:-1,NATGEO KIDS SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/69059
+#EXTINF:-1,NATGEO SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/68824
+#EXTINF:-1,NATGEO WILD HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/68826
+#EXTINF:-1,NICK JR HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/69063
+#EXTINF:-1,NICK JR SD²
+http://chronostv.com:80/cliente3038/cliente3038gg/72477
+#EXTINF:-1,NICK JR SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/69064
+#EXTINF:-1,NICKELODEON HD²
+http://chronostv.com:80/cliente3038/cliente3038gg/72656
+#EXTINF:-1,NICKELODEON HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/69061
+#EXTINF:-1,NICKELODEON SD²
+http://chronostv.com:80/cliente3038/cliente3038gg/72567
+#EXTINF:-1,NICKELODEON SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/69065
+#EXTINF:-1,NSC TV BLUMENAU SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/71298
+#EXTINF:-1,OFF HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/69203
+#EXTINF:-1,PARAMOUNT CHANNEL HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/69206
+#EXTINF:-1,PARAMOUNT SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/69207
+#EXTINF:-1,PLAY KIDS HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/78796
+#EXTINF:-1,PLAY TV HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/69209
+#EXTINF:-1,PLAY TV SD²
+http://chronostv.com:80/cliente3038/cliente3038gg/72435
+#EXTINF:-1,PLAY TV SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/69210
+#EXTINF:-1,PREMIERE 3 HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/69090
+#EXTINF:-1,PREMIERE 3 SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/69091
+#EXTINF:-1,PREMIERE 3 SD²
+http://chronostv.com:80/cliente3038/cliente3038gg/72498
+#EXTINF:-1,PREMIERE 4 SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/69094
+#EXTINF:-1,PREMIERE 5 SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/69097
+#EXTINF:-1,PREMIERE 7 HD
+http://chronostv.com:80/cliente3038/cliente3038gg/69102
+#EXTINF:-1,PREMIERE 7 SD²
+http://chronostv.com:80/cliente3038/cliente3038gg/72479
+#EXTINF:-1,PRIME BOX BRASIL SD²
+http://chronostv.com:80/cliente3038/cliente3038gg/72446
+#EXTINF:-1,PRIME BOX BRASIL SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/69214
+#EXTINF:-1,PUC TV SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/152
+#EXTINF:-1,RADIO CAPITAL SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/153
+#EXTINF:-1,REAL MADRID SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/71303
+#EXTINF:-1,REAL MADRID TV SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/155
+#EXTINF:-1,RECORD SP HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/72598
+#EXTINF:-1,RECORD HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/71250
+#EXTINF:-1,RECORD MG HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/71243
+#EXTINF:-1,RECORD MG SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/71244
+#EXTINF:-1,RECORD PA SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/71240
+#EXTINF:-1,RECORD RS SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/71248
+#EXTINF:-1,REDE FAMÍLIA HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/75890
+#EXTINF:-1,REDE SUPER SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/71289
+#EXTINF:-1,REDE TV HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/69221
+#EXTINF:-1,REDETV! SD²
+http://chronostv.com:80/cliente3038/cliente3038gg/72427
+#EXTINF:-1,SBT TV DIFUSORA MA SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/191
+#EXTINF:-1,SBT HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/68766
+#EXTINF:-1,SBT SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/71251
+#EXTINF:-1,SBT SP SD²
+http://chronostv.com:80/cliente3038/cliente3038gg/72436
+#EXTINF:-1,SHOPTIME SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/72554
+#EXTINF:-1,SIC SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/72481
+#EXTINF:-1,SONY HD²
+http://chronostv.com:80/cliente3038/cliente3038gg/72632
+#EXTINF:-1,SONY HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/68871
+#EXTINF:-1,SPACE HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/68874
+#EXTINF:-1,SPACE SD²
+http://chronostv.com:80/cliente3038/cliente3038gg/72494
+#EXTINF:-1,SPACE SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/68875
+#EXTINF:-1,SPORTV 2 HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/69139
+#EXTINF:-1,SPORTV 2 SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/69140
+#EXTINF:-1,SPORTV 3 SD²
+http://chronostv.com:80/cliente3038/cliente3038gg/72457
+#EXTINF:-1,SPORTV 3 HD²
+http://chronostv.com:80/cliente3038/cliente3038gg/75948
+#EXTINF:-1,SPORTV HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/69145
+#EXTINF:-1,SPORTV SD²
+http://chronostv.com:80/cliente3038/cliente3038gg/69146
+#EXTINF:-1,SPORTV SD²
+http://chronostv.com:80/cliente3038/cliente3038gg/72560
+#EXTINF:-1,STUDIO UNIVERSAL HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/68877
+#EXTINF:-1,STUDIO UNIVERSAL SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/68878
+#EXTINF:-1,SYFY HD²
+http://chronostv.com:80/cliente3038/cliente3038gg/72655
+#EXTINF:-1,SYFY HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/68880
+#EXTINF:-1,TC CULT HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/68713
+#EXTINF:-1,TCM HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/68886
+#EXTINF:-1,TCM SD²
+http://chronostv.com:80/cliente3038/cliente3038gg/72442
+#EXTINF:-1,TCM SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/68887
+#EXTINF:-1,TELECINE CULT HD²
+http://chronostv.com:80/cliente3038/cliente3038gg/72654
+#EXTINF:-1,TELECINE CULT SD²
+http://chronostv.com:80/cliente3038/cliente3038gg/72458
+#EXTINF:-1,TELECINE FUN HD²
+http://chronostv.com:80/cliente3038/cliente3038gg/72606
+#EXTINF:-1,TELECINE FUN HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/68716
+#EXTINF:-1,TELECINE PIPOCA SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/68720
+#EXTINF:-1,TELECINE PREMIUM HD²
+http://chronostv.com:80/cliente3038/cliente3038gg/72608
+#EXTINF:-1,TELECINE PREMIUM HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/68722
+#EXTINF:-1,TELECINE PREMIUM SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/68723
+#EXTINF:-1,TELECINE TOUCH HD²
+http://chronostv.com:80/cliente3038/cliente3038gg/72609
+#EXTINF:-1,TELECINE TOUCH SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/68726
+#EXTINF:-1,TERRA VIVA FHD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/97901
+#EXTINF:-1,TLC HD²
+http://chronostv.com:80/cliente3038/cliente3038gg/72610
+#EXTINF:-1,TLC HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/68889
+#EXTINF:-1,TNT HD²
+http://chronostv.com:80/cliente3038/cliente3038gg/72645
+#EXTINF:-1,TNT HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/68892
+#EXTINF:-1,TNT SERIES HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/68895
+#EXTINF:-1,TNT SERIES SD²
+http://chronostv.com:80/cliente3038/cliente3038gg/72493
+#EXTINF:-1,TNT SERIES SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/68896
+#EXTINF:-1,TOONCAST SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/69068
+#EXTINF:-1,TOP TV SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/207
+#EXTINF:-1,TRU TV SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/71279
+#EXTINF:-1,TV APARECIDA HD²
+http://chronostv.com:80/cliente3038/cliente3038gg/212
+#EXTINF:-1,TV ARAPUAN HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/97802
+#EXTINF:-1,GLOBO TV CABO BRANCO HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/97780
+#EXTINF:-1,TV CORREIO PB HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/97759
+#EXTINF:-1,TV CULTURA PARA HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/35
+#EXTINF:-1,TV CÂMARA SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/215
+#EXTINF:-1,TV DIARIO HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/71281
+#EXTINF:-1,TV DIARIO SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/71280
+#EXTINF:-1,TV EVANGELIZAR SD²
+http://chronostv.com:80/cliente3038/cliente3038gg/561
+#EXTINF:-1,TV GAZETA SD²
+http://chronostv.com:80/cliente3038/cliente3038gg/72613
+#EXTINF:-1,TV JORNAL DE LIMEIRA SP SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/558
+#EXTINF:-1,RECORD TV MIRAMAR PB HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/97728
+#EXTINF:-1,TV NOVO TEMPO SD²
+http://chronostv.com:80/cliente3038/cliente3038gg/72444
+#EXTINF:-1,TV RIO SUL SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/71299
+#EXTINF:-1,TV RÁ-TIM-BUM HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/68784
+#EXTINF:-1,TV RÁ-TIM-BUM SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/68785
+#EXTINF:-1,GLOBO TV VERDES MARES CARIRI HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/97826
+#EXTINF:-1,TV5 SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/69225
+#EXTINF:-1,TV8 BRASIL SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/226
+#EXTINF:-1,UNIVERSAL CHANNEL  SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/68900
+#EXTINF:-1,UNIVERSAL CHANNEL HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/68899
+#EXTINF:-1,VH1 MEGA HITS HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/69228
+#EXTINF:-1,VH1 MEGA HITS SD²
+http://chronostv.com:80/cliente3038/cliente3038gg/72562
+#EXTINF:-1,VH1 MEGA HITS SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/69229
+#EXTINF:-1,VIVA HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/69231
+#EXTINF:-1,VIVA SD²
+http://chronostv.com:80/cliente3038/cliente3038gg/72559
+#EXTINF:-1,VIVA SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/69232
+#EXTINF:-1,WARNER CHANNEL  SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/68903
+#EXTINF:-1,WARNER CHANNEL HD²
+http://chronostv.com:80/cliente3038/cliente3038gg/72617
+#EXTINF:-1,WARNER CHANNEL HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/68902
+#EXTINF:-1,ZOOMOO HD²
+http://chronostv.com:80/cliente3038/cliente3038gg/72651
+#EXTINF:-1,TELECINE PREMIUM SD²
+http://chronostv.com:80/cliente3038/cliente3038gg/100244
+#EXTINF:-1,WARNER CHANNEL SD²
+http://chronostv.com:80/cliente3038/cliente3038gg/100246
+#EXTINF:-1,ESPN SD²
+http://chronostv.com:80/cliente3038/cliente3038gg/72513
+#EXTINF:-1,GLOBO SP SD*
+http://chronostv.com:80/cliente3038/cliente3038gg/100250
+#EXTINF:-1,ESPN BRASIL HD²
+http://chronostv.com:80/cliente3038/cliente3038gg/72576
+#EXTINF:-1,GLOBO FORTALEZA SD²
+http://chronostv.com:80/cliente3038/cliente3038gg/100253
+#EXTINF:-1,CNN BRASIL HD²
+http://chronostv.com:80/cliente3038/cliente3038gg/100255
+#EXTINF:-1,CANÇÃO NOVA HD²
+http://chronostv.com:80/cliente3038/cliente3038gg/100260
+#EXTINF:-1,RECORD RJ HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/100510
+#EXTINF:-1,RECORD PA HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/100511
+#EXTINF:-1,CONMEBOL 2 FHD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/100985
+#EXTINF:-1,CONMEBOL 3 FHD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/100986
+#EXTINF:-1,CONMEBOL 4 FHD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/100988
+#EXTINF:-1,CONMEBOL 3 HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/100989
+#EXTINF:-1,CONMEBOL 4 HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/100990
+#EXTINF:-1,FLATV HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/101001
+#EXTINF:-1,HBO MUNDI HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/101003
+#EXTINF:-1,HBO POP HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/101005
+#EXTINF:-1,HBO POP FHD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/101006
+#EXTINF:-1,HBO XTREME SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/101007
+#EXTINF:-1,HBO XTREME HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/101008
+#EXTINF:-1,CONMEBOL HD²
+http://chronostv.com:80/cliente3038/cliente3038gg/106310
+#EXTINF:-1,CONMEBOL 4 HD²
+http://chronostv.com:80/cliente3038/cliente3038gg/106313
+#EXTINF:-1,VH1 SD²
+http://chronostv.com:80/cliente3038/cliente3038gg/106788
+#EXTINF:-1,ESPN EXTRA HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/109316
+#EXTINF:-1,SBT NORDESTE HD²
+http://chronostv.com:80/cliente3038/cliente3038gg/111951
+#EXTINF:-1,SBT RJ SD²
+http://chronostv.com:80/cliente3038/cliente3038gg/111952
+#EXTINF:-1,CINE SKY 01 HD²
+http://chronostv.com:80/cliente3038/cliente3038gg/121074
+#EXTINF:-1,CINE SKY 09 HD²
+http://chronostv.com:80/cliente3038/cliente3038gg/121082
+#EXTINF:-1,CULTURA SD
+http://chronostv.com:80/cliente3038/cliente3038gg/121147
+#EXTINF:-1,LIVE*: EURO NEWS HD
+http://chronostv.com:80/cliente3038/cliente3038gg/121588
+#EXTINF:-1,BBB 04: QUARTO COLORIDO HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/125476
+#EXTINF:-1,BBB 06: COZINHA VIP-XEPA HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/125478
+#EXTINF:-1,BBB 07: SALA DE ESTAR HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/125479
+#EXTINF:-1,BBB 08: PISCINA HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/125480
+#EXTINF:-1,BBB 10: ACADEMIA HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/125482
+#EXTINF:-1,SBT RJ HD²
+http://chronostv.com:80/cliente3038/cliente3038gg/125908
+#EXTINF:-1,RECORD NEWS SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/125913
+#EXTINF:-1,RECORD SP SD²
+http://chronostv.com:80/cliente3038/cliente3038gg/125914
+#EXTINF:-1,RECORD TV AMAZONAS HD
+http://chronostv.com:80/cliente3038/cliente3038gg/125915
+#EXTINF:-1,REDE VIDA HD²
+http://chronostv.com:80/cliente3038/cliente3038gg/125916
+#EXTINF:-1,GLOBO CABO BRANCO SD²
+http://chronostv.com:80/cliente3038/cliente3038gg/126355
+#EXTINF:-1,GLOBO CENTRO AMERICA SD²
+http://chronostv.com:80/cliente3038/cliente3038gg/126356
+#EXTINF:-1,GLOBO EPTV CAMPINAS SD²
+http://chronostv.com:80/cliente3038/cliente3038gg/126357
+#EXTINF:-1,GLOBO EPTV CAMPINAS HD²
+http://chronostv.com:80/cliente3038/cliente3038gg/126358
+#EXTINF:-1,GLOBO EPTV SÃO CARLOS HD²
+http://chronostv.com:80/cliente3038/cliente3038gg/126359
+#EXTINF:-1,GLOBO INTER TV RN SD²
+http://chronostv.com:80/cliente3038/cliente3038gg/126360
+#EXTINF:-1,GLOBO INTERNACIONAL SD²
+http://chronostv.com:80/cliente3038/cliente3038gg/126361
+#EXTINF:-1,GLOBO INTERTV ALTO LITORAL HD²
+http://chronostv.com:80/cliente3038/cliente3038gg/126362
+#EXTINF:-1,GLOBO INTERTV SERRA MAR SD²
+http://chronostv.com:80/cliente3038/cliente3038gg/126363
+#EXTINF:-1,GLOBO ITAPETININGA SD²
+http://chronostv.com:80/cliente3038/cliente3038gg/126364
+#EXTINF:-1,GLOBO MIRANTE HD²
+http://chronostv.com:80/cliente3038/cliente3038gg/126365
+#EXTINF:-1,GLOBO NORDESTE SD²
+http://chronostv.com:80/cliente3038/cliente3038gg/126366
+#EXTINF:-1,GLOBO NSC BLUMENAU SD²
+http://chronostv.com:80/cliente3038/cliente3038gg/126367
+#EXTINF:-1,GLOBO NSC FLORIANOPOLIS HD²
+http://chronostv.com:80/cliente3038/cliente3038gg/126368
+#EXTINF:-1,GLOBO RBS PORTO ALEGRE HD²
+http://chronostv.com:80/cliente3038/cliente3038gg/126369
+#EXTINF:-1,GLOBO RBS SANTA MARIA HD²
+http://chronostv.com:80/cliente3038/cliente3038gg/126370
+#EXTINF:-1,GLOBO RBS TV POA HD²
+http://chronostv.com:80/cliente3038/cliente3038gg/126371
+#EXTINF:-1,GLOBO RIBEIRAO PRETO SD²
+http://chronostv.com:80/cliente3038/cliente3038gg/126372
+#EXTINF:-1,GLOBO RPC PARANAVA HD²
+http://chronostv.com:80/cliente3038/cliente3038gg/126373
+#EXTINF:-1,GLOBO TV GAZETA SUL ES HD²
+http://chronostv.com:80/cliente3038/cliente3038gg/126378
+#EXTINF:-1,GLOBO TV LIBERAL SD²
+http://chronostv.com:80/cliente3038/cliente3038gg/126379
+#EXTINF:-1,BBB 02: CONFESSIONÁRIO HD²
+http://chronostv.com:80/cliente3038/cliente3038gg/126386
+#EXTINF:-1,BBB 04: QUARTO COLORIDO HD²
+http://chronostv.com:80/cliente3038/cliente3038gg/126387
+#EXTINF:-1,BBB 05: CHUVEIRO HD²
+http://chronostv.com:80/cliente3038/cliente3038gg/126388
+#EXTINF:-1,BBB 06: COZINHA VIP-XEPA HD²
+http://chronostv.com:80/cliente3038/cliente3038gg/126389
+#EXTINF:-1,BBB 07: SALA DE ESTAR HD²
+http://chronostv.com:80/cliente3038/cliente3038gg/126390
+#EXTINF:-1,BBB 08: PISCINA HD²
+http://chronostv.com:80/cliente3038/cliente3038gg/126391
+#EXTINF:-1,BBB 09: JARDIM HD²
+http://chronostv.com:80/cliente3038/cliente3038gg/126392
+#EXTINF:-1,BBB 10: ACADEMIA HD²
+http://chronostv.com:80/cliente3038/cliente3038gg/126393
+#EXTINF:-1,BBB HD² (MOSAICO)
+http://chronostv.com:80/cliente3038/cliente3038gg/126394
+#EXTINF:-1,FOX FHD [LEG]²
+http://chronostv.com:80/cliente3038/cliente3038gg/126396
+#EXTINF:-1,HBO XTREME FHD [LEG]²
+http://chronostv.com:80/cliente3038/cliente3038gg/126403
+#EXTINF:-1,TELECINE PREMIUM FHD [LEG]²
+http://chronostv.com:80/cliente3038/cliente3038gg/126409
+#EXTINF:-1,TELECINE TOUCH FHD [LEG]²
+http://chronostv.com:80/cliente3038/cliente3038gg/126410
+#EXTINF:-1,CINE SKY FHD [LEG]²
+http://chronostv.com:80/cliente3038/cliente3038gg/126411
+#EXTINF:-1,LOADING TV FHD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/126841
+#EXTINF:-1,COPA DO NORDESTE SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/75954
+#EXTINF:-1,CAMPEONATO CATARINENSE HD
+http://chronostv.com:80/cliente3038/cliente3038gg/127066
+#EXTINF:-1,REDE GENISIS
+http://chronostv.com:80/cliente3038/cliente3038gg/127077
+#EXTINF:-1,FLATV HD²
+http://chronostv.com:80/cliente3038/cliente3038gg/127669
+#EXTINF:-1,RECORD BELEM SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/127671
+#EXTINF:-1,RECORD BH HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/127672
+#EXTINF:-1,RECORD DF HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/127673
+#EXTINF:-1,RECORD ES HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/127674
+#EXTINF:-1,VASCOTV HD²
+http://chronostv.com:80/cliente3038/cliente3038gg/127779
+#EXTINF:-1,CARIOCÃO HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/127984
+#EXTINF:-1,CARIOCÃO 2 SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/127985
+#EXTINF:-1,CARIOCÃO 2 HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/127986
+#EXTINF:-1,LOADING TV HD*
+http://chronostv.com:80/cliente3038/cliente3038gg/128986
+#EXTINF:-1,FOX SPORTS 4K²
+http://chronostv.com:80/cliente3038/cliente3038gg/131262
+#EXTINF:-1,GAZETA 4K²
+http://chronostv.com:80/cliente3038/cliente3038gg/131263
+#EXTINF:-1,HBO XTREME 4K²
+http://chronostv.com:80/cliente3038/cliente3038gg/131264
+#EXTINF:-1,CNN BRASIL HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/131268
+#EXTINF:-1,ESTÁDIO TNT 5 SD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/131269
+#EXTINF:-1,COPA DO NORDESTE 5 HD¹
+http://chronostv.com:80/cliente3038/cliente3038gg/131582
 
